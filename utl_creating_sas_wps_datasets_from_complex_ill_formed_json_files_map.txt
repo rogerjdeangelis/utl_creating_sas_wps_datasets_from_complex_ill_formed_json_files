@@ -411,7 +411,7 @@ List of 2
   .. .. .. ..$ url                    : chr "https://i.redd.it/0cy35xt6jrb01.jpg"
   .. .. .. ..$ whitelist_status       : NULL
   .. .. .. ..$ quarantine             : logi FALSE
-  .. .. .. ..$ title                  : chr "Run a full node — now""| __truncated__
+  .. .. .. ..$ title                  : chr "Run a full node Â— now""| __truncated__
   .. .. .. ..$ created_utc            : num 1.52e+09
   .. .. .. ..$ subreddit_name_prefixed: chr "r/burstcoin"
   .. .. .. ..$ ups                    : num 14
@@ -433,8 +433,8 @@ List of 2
   .. .. .. ..$ subreddit_id           : chr "t5_331i6"
   .. .. .. ..$ thumbnail_width        : NULL
   .. .. .. ..$ subreddit              : chr "burstcoin"
-  .. .. .. ..$ selftext_html          : chr "&lt;!-- SC_OFF --&gt;&lt;div class=\"md\"&gt;&lt;p&gt;I’ve been mining for 48 hours now and joined the Burst4All pool. How ofte"| __truncated__
-  .. .. .. ..$ selftext               : chr "I’ve been mining for 48 hours now and joined the Burst4All pool. How often am I supposed to get paid? On the pool’s web page, w"| __truncated__
+  .. .. .. ..$ selftext_html          : chr "&lt;!-- SC_OFF --&gt;&lt;div class=\"md\"&gt;&lt;p&gt;IÂ’ve been mining for 48 hours now and joined the Burst4All pool. How ofte"| __truncated__
+  .. .. .. ..$ selftext               : chr "IÂ’ve been mining for 48 hours now and joined the Burst4All pool. How often am I supposed to get paid? On the poolÂ’s web page, w"| __truncated__
   .. .. .. ..$ likes                  : NULL
   .. .. .. ..$ suggested_sort         : NULL
   .. .. .. ..$ user_reports           : list()
@@ -510,7 +510,7 @@ List of 2
   .. .. .. ..$ thumbnail_width        : NULL
   .. .. .. ..$ subreddit              : chr "burstcoin"
   .. .. .. ..$ selftext_html          : chr "&lt;!-- SC_OFF --&gt;&lt;div class=\"md\"&gt;&lt;p&gt;Hi all,&lt;/p&gt;\n\n&lt;p&gt;Very new to all this and looking for some a"| __truncated__
-  .. .. .. ..$ selftext               : chr "Hi all,\n\nVery new to all this and looking for some advice , I’m just setting up a test rig to get used to the way things work"| __truncated__
+  .. .. .. ..$ selftext               : chr "Hi all,\n\nVery new to all this and looking for some advice , IÂ’m just setting up a test rig to get used to the way things work"| __truncated__
   .. .. .. ..$ likes                  : NULL
   .. .. .. ..$ suggested_sort         : NULL
   .. .. .. ..$ user_reports           : list()
@@ -1511,7 +1511,7 @@ List of 2
   .. .. .. ..$ url                    : chr "https://cryptowizard370887289.wordpress.com/2017/12/30/burstcoin-the-green-cryptocurrency/"
   .. .. .. ..$ whitelist_status       : NULL
   .. .. .. ..$ quarantine             : logi FALSE
-  .. .. .. ..$ title                  : chr "Burstcoin – the “green” cryptocurrency""| __truncated__
+  .. .. .. ..$ title                  : chr "Burstcoin Â– the Â“greenÂ” cryptocurrency""| __truncated__
   .. .. .. ..$ created_utc            : num 1.52e+09
   .. .. .. ..$ subreddit_name_prefixed: chr "r/burstcoin"
   .. .. .. ..$ ups                    : num 16
