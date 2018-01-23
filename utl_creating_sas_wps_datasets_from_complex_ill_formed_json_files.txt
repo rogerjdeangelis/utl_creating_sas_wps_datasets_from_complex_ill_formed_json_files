@@ -1,0 +1,2117 @@
+List of 2
+ $ kind: chr "Listing"
+ $ data:List of 6
+  ..$ after           : chr "t3_7rzggl"
+  ..$ dist            : num 25
+  ..$ modhash         : chr ""
+  ..$ whitelist_status: NULL
+  ..$ children        :List of 25
+  .. ..$ :List of 2
+  .. .. ..$ kind: chr "t3"
+  .. .. ..$ data:List of 71
+  .. .. .. ..$ domain                 : chr "self.burstcoin"
+  .. .. .. ..$ approved_at_utc        : NULL
+  .. .. .. ..$ mod_reason_by          : NULL
+  .. .. .. ..$ banned_by              : NULL
+  .. .. .. ..$ num_reports            : NULL
+  .. .. .. ..$ subreddit_id           : chr "t5_331i6"
+  .. .. .. ..$ thumbnail_width        : NULL
+  .. .. .. ..$ subreddit              : chr "burstcoin"
+  .. .. .. ..$ selftext_html          : chr "&lt;!-- SC_OFF --&gt;&lt;div class=\"md\"&gt;&lt;p&gt;Hello,&lt;/p&gt;\n\n&lt;p&gt;I have some questions regarding the 50/50 cr"| __truncated__
+  .. .. .. ..$ selftext               : chr "Hello,\n\nI have some questions regarding the 50/50 cryptoguru pool I was not able to figure out myself.\n\n* \"From the remain"| __truncated__
+  .. .. .. ..$ likes                  : NULL
+  .. .. .. ..$ suggested_sort         : NULL
+  .. .. .. ..$ user_reports           : list()
+  .. .. .. .. ..- attr(*, "class")= chr "AsIs"
+  .. .. .. ..$ secure_media           : NULL
+  .. .. .. ..$ is_reddit_media_domain : logi FALSE
+  .. .. .. ..$ link_flair_text        : chr "Mining"
+  .. .. .. ..$ id                     : chr "7sdyxm"
+  .. .. .. ..$ banned_at_utc          : NULL
+  .. .. .. ..$ mod_reason_title       : NULL
+  .. .. .. ..$ view_count             : NULL
+  .. .. .. ..$ archived               : logi FALSE
+  .. .. .. ..$ clicked                : logi FALSE
+  .. .. .. ..$ media_embed            : Named list()
+  .. .. .. ..$ report_reasons         : NULL
+  .. .. .. ..$ author                 : chr "-_tim_-"
+  .. .. .. ..$ num_crossposts         : num 0
+  .. .. .. ..$ saved                  : logi FALSE
+  .. .. .. ..$ mod_reports            : list()
+  .. .. .. .. ..- attr(*, "class")= chr "AsIs"
+  .. .. .. ..$ can_mod_post           : logi FALSE
+  .. .. .. ..$ is_crosspostable       : logi FALSE
+  .. .. .. ..$ pinned                 : logi FALSE
+  .. .. .. ..$ score                  : num 2
+  .. .. .. ..$ approved_by            : NULL
+  .. .. .. ..$ over_18                : logi FALSE
+  .. .. .. ..$ hidden                 : logi FALSE
+  .. .. .. ..$ thumbnail              : chr "self"
+  .. .. .. ..$ edited                 : num 1.52e+09
+  .. .. .. ..$ link_flair_css_class   : chr "Mining"
+  .. .. .. ..$ author_flair_css_class : NULL
+  .. .. .. ..$ contest_mode           : logi FALSE
+  .. .. .. ..$ gilded                 : num 0
+  .. .. .. ..$ downs                  : num 0
+  .. .. .. ..$ brand_safe             : logi FALSE
+  .. .. .. ..$ secure_media_embed     : Named list()
+  .. .. .. ..$ removal_reason         : NULL
+  .. .. .. ..$ author_flair_text      : NULL
+  .. .. .. ..$ stickied               : logi FALSE
+  .. .. .. ..$ can_gild               : logi FALSE
+  .. .. .. ..$ thumbnail_height       : NULL
+  .. .. .. ..$ parent_whitelist_status: NULL
+  .. .. .. ..$ name                   : chr "t3_7sdyxm"
+  .. .. .. ..$ spoiler                : logi FALSE
+  .. .. .. ..$ permalink              : chr "/r/burstcoin/comments/7sdyxm/questions_about_5050poolburstcryptoguruorg/"
+  .. .. .. ..$ subreddit_type         : chr "public"
+  .. .. .. ..$ locked                 : logi FALSE
+  .. .. .. ..$ hide_score             : logi FALSE
+  .. .. .. ..$ created                : num 1.52e+09
+  .. .. .. ..$ url                    : chr "https://www.reddit.com/r/burstcoin/comments/7sdyxm/questions_about_5050poolburstcryptoguruorg/"
+  .. .. .. ..$ whitelist_status       : NULL
+  .. .. .. ..$ quarantine             : logi FALSE
+  .. .. .. ..$ title                  : chr "Questions about 50-50-pool.burst.cryptoguru.org"
+  .. .. .. ..$ created_utc            : num 1.52e+09
+  .. .. .. ..$ subreddit_name_prefixed: chr "r/burstcoin"
+  .. .. .. ..$ ups                    : num 2
+  .. .. .. ..$ media                  : NULL
+  .. .. .. ..$ num_comments           : num 12
+  .. .. .. ..$ is_self                : logi TRUE
+  .. .. .. ..$ visited                : logi FALSE
+  .. .. .. ..$ mod_note               : NULL
+  .. .. .. ..$ is_video               : logi FALSE
+  .. .. .. ..$ distinguished          : NULL
+  .. ..$ :List of 2
+  .. .. ..$ kind: chr "t3"
+  .. .. ..$ data:List of 71
+  .. .. .. ..$ domain                 : chr "self.burstcoin"
+  .. .. .. ..$ approved_at_utc        : NULL
+  .. .. .. ..$ mod_reason_by          : NULL
+  .. .. .. ..$ banned_by              : NULL
+  .. .. .. ..$ num_reports            : NULL
+  .. .. .. ..$ subreddit_id           : chr "t5_331i6"
+  .. .. .. ..$ thumbnail_width        : NULL
+  .. .. .. ..$ subreddit              : chr "burstcoin"
+  .. .. .. ..$ selftext_html          : NULL
+  .. .. .. ..$ selftext               : chr ""
+  .. .. .. ..$ likes                  : NULL
+  .. .. .. ..$ suggested_sort         : NULL
+  .. .. .. ..$ user_reports           : list()
+  .. .. .. .. ..- attr(*, "class")= chr "AsIs"
+  .. .. .. ..$ secure_media           : NULL
+  .. .. .. ..$ is_reddit_media_domain : logi FALSE
+  .. .. .. ..$ link_flair_text        : chr "Mining"
+  .. .. .. ..$ id                     : chr "7sdxo1"
+  .. .. .. ..$ banned_at_utc          : NULL
+  .. .. .. ..$ mod_reason_title       : NULL
+  .. .. .. ..$ view_count             : NULL
+  .. .. .. ..$ archived               : logi FALSE
+  .. .. .. ..$ clicked                : logi FALSE
+  .. .. .. ..$ media_embed            : Named list()
+  .. .. .. ..$ report_reasons         : NULL
+  .. .. .. ..$ author                 : chr "Werwolf512"
+  .. .. .. ..$ num_crossposts         : num 0
+  .. .. .. ..$ saved                  : logi FALSE
+  .. .. .. ..$ mod_reports            : list()
+  .. .. .. .. ..- attr(*, "class")= chr "AsIs"
+  .. .. .. ..$ can_mod_post           : logi FALSE
+  .. .. .. ..$ is_crosspostable       : logi FALSE
+  .. .. .. ..$ pinned                 : logi FALSE
+  .. .. .. ..$ score                  : num 1
+  .. .. .. ..$ approved_by            : NULL
+  .. .. .. ..$ over_18                : logi FALSE
+  .. .. .. ..$ hidden                 : logi FALSE
+  .. .. .. ..$ thumbnail              : chr "self"
+  .. .. .. ..$ edited                 : logi FALSE
+  .. .. .. ..$ link_flair_css_class   : chr "Mining"
+  .. .. .. ..$ author_flair_css_class : NULL
+  .. .. .. ..$ contest_mode           : logi FALSE
+  .. .. .. ..$ gilded                 : num 0
+  .. .. .. ..$ downs                  : num 0
+  .. .. .. ..$ brand_safe             : logi FALSE
+  .. .. .. ..$ secure_media_embed     : Named list()
+  .. .. .. ..$ removal_reason         : NULL
+  .. .. .. ..$ author_flair_text      : NULL
+  .. .. .. ..$ stickied               : logi FALSE
+  .. .. .. ..$ can_gild               : logi FALSE
+  .. .. .. ..$ thumbnail_height       : NULL
+  .. .. .. ..$ parent_whitelist_status: NULL
+  .. .. .. ..$ name                   : chr "t3_7sdxo1"
+  .. .. .. ..$ spoiler                : logi FALSE
+  .. .. .. ..$ permalink              : chr "/r/burstcoin/comments/7sdxo1/have_4x_8tb_hdds_is_it_possible_to_plot_1_and/"
+  .. .. .. ..$ subreddit_type         : chr "public"
+  .. .. .. ..$ locked                 : logi FALSE
+  .. .. .. ..$ hide_score             : logi FALSE
+  .. .. .. ..$ created                : num 1.52e+09
+  .. .. .. ..$ url                    : chr "https://www.reddit.com/r/burstcoin/comments/7sdxo1/have_4x_8tb_hdds_is_it_possible_to_plot_1_and/"
+  .. .. .. ..$ whitelist_status       : NULL
+  .. .. .. ..$ quarantine             : logi FALSE
+  .. .. .. ..$ title                  : chr "Have 4x 8TB HDD's, is it possible to plot 1 and copy the plotfile to the other 3? (Is it faster?)"
+  .. .. .. ..$ created_utc            : num 1.52e+09
+  .. .. .. ..$ subreddit_name_prefixed: chr "r/burstcoin"
+  .. .. .. ..$ ups                    : num 1
+  .. .. .. ..$ media                  : NULL
+  .. .. .. ..$ num_comments           : num 3
+  .. .. .. ..$ is_self                : logi TRUE
+  .. .. .. ..$ visited                : logi FALSE
+  .. .. .. ..$ mod_note               : NULL
+  .. .. .. ..$ is_video               : logi FALSE
+  .. .. .. ..$ distinguished          : NULL
+  .. ..$ :List of 2
+  .. .. ..$ kind: chr "t3"
+  .. .. ..$ data:List of 71
+  .. .. .. ..$ domain                 : chr "self.burstcoin"
+  .. .. .. ..$ approved_at_utc        : NULL
+  .. .. .. ..$ mod_reason_by          : NULL
+  .. .. .. ..$ banned_by              : NULL
+  .. .. .. ..$ num_reports            : NULL
+  .. .. .. ..$ subreddit_id           : chr "t5_331i6"
+  .. .. .. ..$ thumbnail_width        : NULL
+  .. .. .. ..$ subreddit              : chr "burstcoin"
+  .. .. .. ..$ selftext_html          : chr "&lt;!-- SC_OFF --&gt;&lt;div class=\"md\"&gt;&lt;p&gt;Hey, i tried the last couple of days to get Qbundle started on windows, b"| __truncated__
+  .. .. .. ..$ selftext               : chr "Hey, i tried the last couple of days to get Qbundle started on windows, but on the first day, i left the plotter active and i l"| __truncated__
+  .. .. .. ..$ likes                  : NULL
+  .. .. .. ..$ suggested_sort         : NULL
+  .. .. .. ..$ user_reports           : list()
+  .. .. .. .. ..- attr(*, "class")= chr "AsIs"
+  .. .. .. ..$ secure_media           : NULL
+  .. .. .. ..$ is_reddit_media_domain : logi FALSE
+  .. .. .. ..$ link_flair_text        : chr "Discussion"
+  .. .. .. ..$ id                     : chr "7sdu07"
+  .. .. .. ..$ banned_at_utc          : NULL
+  .. .. .. ..$ mod_reason_title       : NULL
+  .. .. .. ..$ view_count             : NULL
+  .. .. .. ..$ archived               : logi FALSE
+  .. .. .. ..$ clicked                : logi FALSE
+  .. .. .. ..$ media_embed            : Named list()
+  .. .. .. ..$ report_reasons         : NULL
+  .. .. .. ..$ author                 : chr "LazuGeorge"
+  .. .. .. ..$ num_crossposts         : num 0
+  .. .. .. ..$ saved                  : logi FALSE
+  .. .. .. ..$ mod_reports            : list()
+  .. .. .. .. ..- attr(*, "class")= chr "AsIs"
+  .. .. .. ..$ can_mod_post           : logi FALSE
+  .. .. .. ..$ is_crosspostable       : logi FALSE
+  .. .. .. ..$ pinned                 : logi FALSE
+  .. .. .. ..$ score                  : num 1
+  .. .. .. ..$ approved_by            : NULL
+  .. .. .. ..$ over_18                : logi FALSE
+  .. .. .. ..$ hidden                 : logi FALSE
+  .. .. .. ..$ thumbnail              : chr "self"
+  .. .. .. ..$ edited                 : logi FALSE
+  .. .. .. ..$ link_flair_css_class   : chr "Discussion"
+  .. .. .. ..$ author_flair_css_class : NULL
+  .. .. .. ..$ contest_mode           : logi FALSE
+  .. .. .. ..$ gilded                 : num 0
+  .. .. .. ..$ downs                  : num 0
+  .. .. .. ..$ brand_safe             : logi FALSE
+  .. .. .. ..$ secure_media_embed     : Named list()
+  .. .. .. ..$ removal_reason         : NULL
+  .. .. .. ..$ author_flair_text      : NULL
+  .. .. .. ..$ stickied               : logi FALSE
+  .. .. .. ..$ can_gild               : logi FALSE
+  .. .. .. ..$ thumbnail_height       : NULL
+  .. .. .. ..$ parent_whitelist_status: NULL
+  .. .. .. ..$ name                   : chr "t3_7sdu07"
+  .. .. .. ..$ spoiler                : logi FALSE
+  .. .. .. ..$ permalink              : chr "/r/burstcoin/comments/7sdu07/qbundle_for_ubuntu/"
+  .. .. .. ..$ subreddit_type         : chr "public"
+  .. .. .. ..$ locked                 : logi FALSE
+  .. .. .. ..$ hide_score             : logi FALSE
+  .. .. .. ..$ created                : num 1.52e+09
+  .. .. .. ..$ url                    : chr "https://www.reddit.com/r/burstcoin/comments/7sdu07/qbundle_for_ubuntu/"
+  .. .. .. ..$ whitelist_status       : NULL
+  .. .. .. ..$ quarantine             : logi FALSE
+  .. .. .. ..$ title                  : chr "Qbundle for ubuntu?"
+  .. .. .. ..$ created_utc            : num 1.52e+09
+  .. .. .. ..$ subreddit_name_prefixed: chr "r/burstcoin"
+  .. .. .. ..$ ups                    : num 1
+  .. .. .. ..$ media                  : NULL
+  .. .. .. ..$ num_comments           : num 2
+  .. .. .. ..$ is_self                : logi TRUE
+  .. .. .. ..$ visited                : logi FALSE
+  .. .. .. ..$ mod_note               : NULL
+  .. .. .. ..$ is_video               : logi FALSE
+  .. .. .. ..$ distinguished          : NULL
+  .. ..$ :List of 2
+  .. .. ..$ kind: chr "t3"
+  .. .. ..$ data:List of 71
+  .. .. .. ..$ domain                 : chr "self.burstcoin"
+  .. .. .. ..$ approved_at_utc        : NULL
+  .. .. .. ..$ mod_reason_by          : NULL
+  .. .. .. ..$ banned_by              : NULL
+  .. .. .. ..$ num_reports            : NULL
+  .. .. .. ..$ subreddit_id           : chr "t5_331i6"
+  .. .. .. ..$ thumbnail_width        : NULL
+  .. .. .. ..$ subreddit              : chr "burstcoin"
+  .. .. .. ..$ selftext_html          : chr "&lt;!-- SC_OFF --&gt;&lt;div class=\"md\"&gt;&lt;p&gt;I&amp;#39;m a noob miner but have followed the instructions on QBundle an"| __truncated__
+  .. .. .. ..$ selftext               : chr "I'm a noob miner but have followed the instructions on QBundle and am solo mining just to try it out."
+  .. .. .. ..$ likes                  : NULL
+  .. .. .. ..$ suggested_sort         : NULL
+  .. .. .. ..$ user_reports           : list()
+  .. .. .. .. ..- attr(*, "class")= chr "AsIs"
+  .. .. .. ..$ secure_media           : NULL
+  .. .. .. ..$ is_reddit_media_domain : logi FALSE
+  .. .. .. ..$ link_flair_text        : chr "Help"
+  .. .. .. ..$ id                     : chr "7sczgn"
+  .. .. .. ..$ banned_at_utc          : NULL
+  .. .. .. ..$ mod_reason_title       : NULL
+  .. .. .. ..$ view_count             : NULL
+  .. .. .. ..$ archived               : logi FALSE
+  .. .. .. ..$ clicked                : logi FALSE
+  .. .. .. ..$ media_embed            : Named list()
+  .. .. .. ..$ report_reasons         : NULL
+  .. .. .. ..$ author                 : chr "comicgopher"
+  .. .. .. ..$ num_crossposts         : num 0
+  .. .. .. ..$ saved                  : logi FALSE
+  .. .. .. ..$ mod_reports            : list()
+  .. .. .. .. ..- attr(*, "class")= chr "AsIs"
+  .. .. .. ..$ can_mod_post           : logi FALSE
+  .. .. .. ..$ is_crosspostable       : logi FALSE
+  .. .. .. ..$ pinned                 : logi FALSE
+  .. .. .. ..$ score                  : num 1
+  .. .. .. ..$ approved_by            : NULL
+  .. .. .. ..$ over_18                : logi FALSE
+  .. .. .. ..$ hidden                 : logi FALSE
+  .. .. .. ..$ thumbnail              : chr "self"
+  .. .. .. ..$ edited                 : logi FALSE
+  .. .. .. ..$ link_flair_css_class   : chr "Help"
+  .. .. .. ..$ author_flair_css_class : NULL
+  .. .. .. ..$ contest_mode           : logi FALSE
+  .. .. .. ..$ gilded                 : num 0
+  .. .. .. ..$ downs                  : num 0
+  .. .. .. ..$ brand_safe             : logi FALSE
+  .. .. .. ..$ secure_media_embed     : Named list()
+  .. .. .. ..$ removal_reason         : NULL
+  .. .. .. ..$ author_flair_text      : NULL
+  .. .. .. ..$ stickied               : logi FALSE
+  .. .. .. ..$ can_gild               : logi FALSE
+  .. .. .. ..$ thumbnail_height       : NULL
+  .. .. .. ..$ parent_whitelist_status: NULL
+  .. .. .. ..$ name                   : chr "t3_7sczgn"
+  .. .. .. ..$ spoiler                : logi FALSE
+  .. .. .. ..$ permalink              : chr "/r/burstcoin/comments/7sczgn/help_keep_getting_error_858861617_submitnonce/"
+  .. .. .. ..$ subreddit_type         : chr "public"
+  .. .. .. ..$ locked                 : logi FALSE
+  .. .. .. ..$ hide_score             : logi FALSE
+  .. .. .. ..$ created                : num 1.52e+09
+  .. .. .. ..$ url                    : chr "https://www.reddit.com/r/burstcoin/comments/7sczgn/help_keep_getting_error_858861617_submitnonce/"
+  .. .. .. ..$ whitelist_status       : NULL
+  .. .. .. ..$ quarantine             : logi FALSE
+  .. .. .. ..$ title                  : chr "Help - keep getting [ERROR 858861617] submitNonce request has bad 'accountId' parameter - should be uint64"
+  .. .. .. ..$ created_utc            : num 1.52e+09
+  .. .. .. ..$ subreddit_name_prefixed: chr "r/burstcoin"
+  .. .. .. ..$ ups                    : num 1
+  .. .. .. ..$ media                  : NULL
+  .. .. .. ..$ num_comments           : num 0
+  .. .. .. ..$ is_self                : logi TRUE
+  .. .. .. ..$ visited                : logi FALSE
+  .. .. .. ..$ mod_note               : NULL
+  .. .. .. ..$ is_video               : logi FALSE
+  .. .. .. ..$ distinguished          : NULL
+  .. ..$ :List of 2
+  .. .. ..$ kind: chr "t3"
+  .. .. ..$ data:List of 73
+  .. .. .. ..$ domain                 : chr "i.redd.it"
+  .. .. .. ..$ approved_at_utc        : NULL
+  .. .. .. ..$ mod_reason_by          : NULL
+  .. .. .. ..$ banned_by              : NULL
+  .. .. .. ..$ num_reports            : NULL
+  .. .. .. ..$ subreddit_id           : chr "t5_331i6"
+  .. .. .. ..$ thumbnail_width        : num 140
+  .. .. .. ..$ subreddit              : chr "burstcoin"
+  .. .. .. ..$ selftext_html          : NULL
+  .. .. .. ..$ selftext               : chr ""
+  .. .. .. ..$ likes                  : NULL
+  .. .. .. ..$ suggested_sort         : NULL
+  .. .. .. ..$ user_reports           : list()
+  .. .. .. .. ..- attr(*, "class")= chr "AsIs"
+  .. .. .. ..$ secure_media           : NULL
+  .. .. .. ..$ is_reddit_media_domain : logi TRUE
+  .. .. .. ..$ link_flair_text        : chr "Discussion"
+  .. .. .. ..$ id                     : chr "7scl08"
+  .. .. .. ..$ banned_at_utc          : NULL
+  .. .. .. ..$ mod_reason_title       : NULL
+  .. .. .. ..$ view_count             : NULL
+  .. .. .. ..$ archived               : logi FALSE
+  .. .. .. ..$ clicked                : logi FALSE
+  .. .. .. ..$ media_embed            : Named list()
+  .. .. .. ..$ report_reasons         : NULL
+  .. .. .. ..$ author                 : chr "Tank_72"
+  .. .. .. ..$ num_crossposts         : num 0
+  .. .. .. ..$ saved                  : logi FALSE
+  .. .. .. ..$ mod_reports            : list()
+  .. .. .. .. ..- attr(*, "class")= chr "AsIs"
+  .. .. .. ..$ can_mod_post           : logi FALSE
+  .. .. .. ..$ is_crosspostable       : logi FALSE
+  .. .. .. ..$ pinned                 : logi FALSE
+  .. .. .. ..$ score                  : num 14
+  .. .. .. ..$ approved_by            : NULL
+  .. .. .. ..$ over_18                : logi FALSE
+  .. .. .. ..$ hidden                 : logi FALSE
+  .. .. .. ..$ preview                :List of 2
+  .. .. .. .. ..$ images :List of 1
+  .. .. .. .. .. ..$ :List of 4
+  .. .. .. .. .. .. ..$ source     :List of 3
+  .. .. .. .. .. .. .. ..$ url   : chr "https://i.redditmedia.com/ZnSx1lXdzyJCo4PDkcvl_58ASYWaQhdZkNmEkxhwA9I.jpg?s=0e571642f92abdccbf633394fc85b8b0"
+  .. .. .. .. .. .. .. ..$ width : num 1097
+  .. .. .. .. .. .. .. ..$ height: num 560
+  .. .. .. .. .. .. ..$ resolutions:List of 6
+  .. .. .. .. .. .. .. ..$ :List of 3
+  .. .. .. .. .. .. .. .. ..$ url   : chr "https://i.redditmedia.com/ZnSx1lXdzyJCo4PDkcvl_58ASYWaQhdZkNmEkxhwA9I.jpg?fit=crop&amp;crop=faces%2Centropy&amp;arh=2&amp;w=108"| __truncated__
+  .. .. .. .. .. .. .. .. ..$ width : num 108
+  .. .. .. .. .. .. .. .. ..$ height: num 55
+  .. .. .. .. .. .. .. ..$ :List of 3
+  .. .. .. .. .. .. .. .. ..$ url   : chr "https://i.redditmedia.com/ZnSx1lXdzyJCo4PDkcvl_58ASYWaQhdZkNmEkxhwA9I.jpg?fit=crop&amp;crop=faces%2Centropy&amp;arh=2&amp;w=216"| __truncated__
+  .. .. .. .. .. .. .. .. ..$ width : num 216
+  .. .. .. .. .. .. .. .. ..$ height: num 110
+  .. .. .. .. .. .. .. ..$ :List of 3
+  .. .. .. .. .. .. .. .. ..$ url   : chr "https://i.redditmedia.com/ZnSx1lXdzyJCo4PDkcvl_58ASYWaQhdZkNmEkxhwA9I.jpg?fit=crop&amp;crop=faces%2Centropy&amp;arh=2&amp;w=320"| __truncated__
+  .. .. .. .. .. .. .. .. ..$ width : num 320
+  .. .. .. .. .. .. .. .. ..$ height: num 163
+  .. .. .. .. .. .. .. ..$ :List of 3
+  .. .. .. .. .. .. .. .. ..$ url   : chr "https://i.redditmedia.com/ZnSx1lXdzyJCo4PDkcvl_58ASYWaQhdZkNmEkxhwA9I.jpg?fit=crop&amp;crop=faces%2Centropy&amp;arh=2&amp;w=640"| __truncated__
+  .. .. .. .. .. .. .. .. ..$ width : num 640
+  .. .. .. .. .. .. .. .. ..$ height: num 326
+  .. .. .. .. .. .. .. ..$ :List of 3
+  .. .. .. .. .. .. .. .. ..$ url   : chr "https://i.redditmedia.com/ZnSx1lXdzyJCo4PDkcvl_58ASYWaQhdZkNmEkxhwA9I.jpg?fit=crop&amp;crop=faces%2Centropy&amp;arh=2&amp;w=960"| __truncated__
+  .. .. .. .. .. .. .. .. ..$ width : num 960
+  .. .. .. .. .. .. .. .. ..$ height: num 490
+  .. .. .. .. .. .. .. ..$ :List of 3
+  .. .. .. .. .. .. .. .. ..$ url   : chr "https://i.redditmedia.com/ZnSx1lXdzyJCo4PDkcvl_58ASYWaQhdZkNmEkxhwA9I.jpg?fit=crop&amp;crop=faces%2Centropy&amp;arh=2&amp;w=108"| __truncated__
+  .. .. .. .. .. .. .. .. ..$ width : num 1080
+  .. .. .. .. .. .. .. .. ..$ height: num 551
+  .. .. .. .. .. .. ..$ variants   : Named list()
+  .. .. .. .. .. .. ..$ id         : chr "WLMziu-LbcYSqfiiFGRf7GxuTyHwwEgDy6PUvcEtE3Q"
+  .. .. .. .. ..$ enabled: logi TRUE
+  .. .. .. ..$ thumbnail              : chr "https://b.thumbs.redditmedia.com/0SoBF80hZJBZkrWJcYGQpMubEhMBVjYy5kNFWYReL2A.jpg"
+  .. .. .. ..$ edited                 : logi FALSE
+  .. .. .. ..$ link_flair_css_class   : chr "Discussion"
+  .. .. .. ..$ author_flair_css_class : NULL
+  .. .. .. ..$ contest_mode           : logi FALSE
+  .. .. .. ..$ gilded                 : num 0
+  .. .. .. ..$ downs                  : num 0
+  .. .. .. ..$ brand_safe             : logi FALSE
+  .. .. .. ..$ secure_media_embed     : Named list()
+  .. .. .. ..$ removal_reason         : NULL
+  .. .. .. ..$ post_hint              : chr "image"
+  .. .. .. ..$ author_flair_text      : NULL
+  .. .. .. ..$ stickied               : logi FALSE
+  .. .. .. ..$ can_gild               : logi FALSE
+  .. .. .. ..$ thumbnail_height       : num 71
+  .. .. .. ..$ parent_whitelist_status: NULL
+  .. .. .. ..$ name                   : chr "t3_7scl08"
+  .. .. .. ..$ spoiler                : logi FALSE
+  .. .. .. ..$ permalink              : chr "/r/burstcoin/comments/7scl08/run_a_full_node_now/"
+  .. .. .. ..$ subreddit_type         : chr "public"
+  .. .. .. ..$ locked                 : logi FALSE
+  .. .. .. ..$ hide_score             : logi FALSE
+  .. .. .. ..$ created                : num 1.52e+09
+  .. .. .. ..$ url                    : chr "https://i.redd.it/0cy35xt6jrb01.jpg"
+  .. .. .. ..$ whitelist_status       : NULL
+  .. .. .. ..$ quarantine             : logi FALSE
+  .. .. .. ..$ title                  : chr "Run a full node — now""| __truncated__
+  .. .. .. ..$ created_utc            : num 1.52e+09
+  .. .. .. ..$ subreddit_name_prefixed: chr "r/burstcoin"
+  .. .. .. ..$ ups                    : num 14
+  .. .. .. ..$ media                  : NULL
+  .. .. .. ..$ num_comments           : num 12
+  .. .. .. ..$ is_self                : logi FALSE
+  .. .. .. ..$ visited                : logi FALSE
+  .. .. .. ..$ mod_note               : NULL
+  .. .. .. ..$ is_video               : logi FALSE
+  .. .. .. ..$ distinguished          : NULL
+  .. ..$ :List of 2
+  .. .. ..$ kind: chr "t3"
+  .. .. ..$ data:List of 71
+  .. .. .. ..$ domain                 : chr "self.burstcoin"
+  .. .. .. ..$ approved_at_utc        : NULL
+  .. .. .. ..$ mod_reason_by          : NULL
+  .. .. .. ..$ banned_by              : NULL
+  .. .. .. ..$ num_reports            : NULL
+  .. .. .. ..$ subreddit_id           : chr "t5_331i6"
+  .. .. .. ..$ thumbnail_width        : NULL
+  .. .. .. ..$ subreddit              : chr "burstcoin"
+  .. .. .. ..$ selftext_html          : chr "&lt;!-- SC_OFF --&gt;&lt;div class=\"md\"&gt;&lt;p&gt;I’ve been mining for 48 hours now and joined the Burst4All pool. How ofte"| __truncated__
+  .. .. .. ..$ selftext               : chr "I’ve been mining for 48 hours now and joined the Burst4All pool. How often am I supposed to get paid? On the pool’s web page, w"| __truncated__
+  .. .. .. ..$ likes                  : NULL
+  .. .. .. ..$ suggested_sort         : NULL
+  .. .. .. ..$ user_reports           : list()
+  .. .. .. .. ..- attr(*, "class")= chr "AsIs"
+  .. .. .. ..$ secure_media           : NULL
+  .. .. .. ..$ is_reddit_media_domain : logi FALSE
+  .. .. .. ..$ link_flair_text        : chr "Mining"
+  .. .. .. ..$ id                     : chr "7sasc6"
+  .. .. .. ..$ banned_at_utc          : NULL
+  .. .. .. ..$ mod_reason_title       : NULL
+  .. .. .. ..$ view_count             : NULL
+  .. .. .. ..$ archived               : logi FALSE
+  .. .. .. ..$ clicked                : logi FALSE
+  .. .. .. ..$ media_embed            : Named list()
+  .. .. .. ..$ report_reasons         : NULL
+  .. .. .. ..$ author                 : chr "Ucfbravesfan"
+  .. .. .. ..$ num_crossposts         : num 0
+  .. .. .. ..$ saved                  : logi FALSE
+  .. .. .. ..$ mod_reports            : list()
+  .. .. .. .. ..- attr(*, "class")= chr "AsIs"
+  .. .. .. ..$ can_mod_post           : logi FALSE
+  .. .. .. ..$ is_crosspostable       : logi FALSE
+  .. .. .. ..$ pinned                 : logi FALSE
+  .. .. .. ..$ score                  : num 2
+  .. .. .. ..$ approved_by            : NULL
+  .. .. .. ..$ over_18                : logi FALSE
+  .. .. .. ..$ hidden                 : logi FALSE
+  .. .. .. ..$ thumbnail              : chr "self"
+  .. .. .. ..$ edited                 : logi FALSE
+  .. .. .. ..$ link_flair_css_class   : chr "Mining"
+  .. .. .. ..$ author_flair_css_class : NULL
+  .. .. .. ..$ contest_mode           : logi FALSE
+  .. .. .. ..$ gilded                 : num 0
+  .. .. .. ..$ downs                  : num 0
+  .. .. .. ..$ brand_safe             : logi FALSE
+  .. .. .. ..$ secure_media_embed     : Named list()
+  .. .. .. ..$ removal_reason         : NULL
+  .. .. .. ..$ author_flair_text      : NULL
+  .. .. .. ..$ stickied               : logi FALSE
+  .. .. .. ..$ can_gild               : logi FALSE
+  .. .. .. ..$ thumbnail_height       : NULL
+  .. .. .. ..$ parent_whitelist_status: NULL
+  .. .. .. ..$ name                   : chr "t3_7sasc6"
+  .. .. .. ..$ spoiler                : logi FALSE
+  .. .. .. ..$ permalink              : chr "/r/burstcoin/comments/7sasc6/getting_paid_from_pool/"
+  .. .. .. ..$ subreddit_type         : chr "public"
+  .. .. .. ..$ locked                 : logi FALSE
+  .. .. .. ..$ hide_score             : logi FALSE
+  .. .. .. ..$ created                : num 1.52e+09
+  .. .. .. ..$ url                    : chr "https://www.reddit.com/r/burstcoin/comments/7sasc6/getting_paid_from_pool/"
+  .. .. .. ..$ whitelist_status       : NULL
+  .. .. .. ..$ quarantine             : logi FALSE
+  .. .. .. ..$ title                  : chr "Getting paid from Pool???"
+  .. .. .. ..$ created_utc            : num 1.52e+09
+  .. .. .. ..$ subreddit_name_prefixed: chr "r/burstcoin"
+  .. .. .. ..$ ups                    : num 2
+  .. .. .. ..$ media                  : NULL
+  .. .. .. ..$ num_comments           : num 4
+  .. .. .. ..$ is_self                : logi TRUE
+  .. .. .. ..$ visited                : logi FALSE
+  .. .. .. ..$ mod_note               : NULL
+  .. .. .. ..$ is_video               : logi FALSE
+  .. .. .. ..$ distinguished          : NULL
+  .. ..$ :List of 2
+  .. .. ..$ kind: chr "t3"
+  .. .. ..$ data:List of 71
+  .. .. .. ..$ domain                 : chr "self.burstcoin"
+  .. .. .. ..$ approved_at_utc        : NULL
+  .. .. .. ..$ mod_reason_by          : NULL
+  .. .. .. ..$ banned_by              : NULL
+  .. .. .. ..$ num_reports            : NULL
+  .. .. .. ..$ subreddit_id           : chr "t5_331i6"
+  .. .. .. ..$ thumbnail_width        : NULL
+  .. .. .. ..$ subreddit              : chr "burstcoin"
+  .. .. .. ..$ selftext_html          : chr "&lt;!-- SC_OFF --&gt;&lt;div class=\"md\"&gt;&lt;p&gt;Hi all,&lt;/p&gt;\n\n&lt;p&gt;Very new to all this and looking for some a"| __truncated__
+  .. .. .. ..$ selftext               : chr "Hi all,\n\nVery new to all this and looking for some advice , I’m just setting up a test rig to get used to the way things work"| __truncated__
+  .. .. .. ..$ likes                  : NULL
+  .. .. .. ..$ suggested_sort         : NULL
+  .. .. .. ..$ user_reports           : list()
+  .. .. .. .. ..- attr(*, "class")= chr "AsIs"
+  .. .. .. ..$ secure_media           : NULL
+  .. .. .. ..$ is_reddit_media_domain : logi FALSE
+  .. .. .. ..$ link_flair_text        : chr "Mining"
+  .. .. .. ..$ id                     : chr "7sacli"
+  .. .. .. ..$ banned_at_utc          : NULL
+  .. .. .. ..$ mod_reason_title       : NULL
+  .. .. .. ..$ view_count             : NULL
+  .. .. .. ..$ archived               : logi FALSE
+  .. .. .. ..$ clicked                : logi FALSE
+  .. .. .. ..$ media_embed            : Named list()
+  .. .. .. ..$ report_reasons         : NULL
+  .. .. .. ..$ author                 : chr "Sixxdog_UK"
+  .. .. .. ..$ num_crossposts         : num 0
+  .. .. .. ..$ saved                  : logi FALSE
+  .. .. .. ..$ mod_reports            : list()
+  .. .. .. .. ..- attr(*, "class")= chr "AsIs"
+  .. .. .. ..$ can_mod_post           : logi FALSE
+  .. .. .. ..$ is_crosspostable       : logi FALSE
+  .. .. .. ..$ pinned                 : logi FALSE
+  .. .. .. ..$ score                  : num 3
+  .. .. .. ..$ approved_by            : NULL
+  .. .. .. ..$ over_18                : logi FALSE
+  .. .. .. ..$ hidden                 : logi FALSE
+  .. .. .. ..$ thumbnail              : chr "self"
+  .. .. .. ..$ edited                 : logi FALSE
+  .. .. .. ..$ link_flair_css_class   : chr "Mining"
+  .. .. .. ..$ author_flair_css_class : NULL
+  .. .. .. ..$ contest_mode           : logi FALSE
+  .. .. .. ..$ gilded                 : num 0
+  .. .. .. ..$ downs                  : num 0
+  .. .. .. ..$ brand_safe             : logi FALSE
+  .. .. .. ..$ secure_media_embed     : Named list()
+  .. .. .. ..$ removal_reason         : NULL
+  .. .. .. ..$ author_flair_text      : NULL
+  .. .. .. ..$ stickied               : logi FALSE
+  .. .. .. ..$ can_gild               : logi FALSE
+  .. .. .. ..$ thumbnail_height       : NULL
+  .. .. .. ..$ parent_whitelist_status: NULL
+  .. .. .. ..$ name                   : chr "t3_7sacli"
+  .. .. .. ..$ spoiler                : logi FALSE
+  .. .. .. ..$ permalink              : chr "/r/burstcoin/comments/7sacli/noob_question_best_pool_for_8tb/"
+  .. .. .. ..$ subreddit_type         : chr "public"
+  .. .. .. ..$ locked                 : logi FALSE
+  .. .. .. ..$ hide_score             : logi FALSE
+  .. .. .. ..$ created                : num 1.52e+09
+  .. .. .. ..$ url                    : chr "https://www.reddit.com/r/burstcoin/comments/7sacli/noob_question_best_pool_for_8tb/"
+  .. .. .. ..$ whitelist_status       : NULL
+  .. .. .. ..$ quarantine             : logi FALSE
+  .. .. .. ..$ title                  : chr "Noob question :) - Best Pool for 8Tb"
+  .. .. .. ..$ created_utc            : num 1.52e+09
+  .. .. .. ..$ subreddit_name_prefixed: chr "r/burstcoin"
+  .. .. .. ..$ ups                    : num 3
+  .. .. .. ..$ media                  : NULL
+  .. .. .. ..$ num_comments           : num 10
+  .. .. .. ..$ is_self                : logi TRUE
+  .. .. .. ..$ visited                : logi FALSE
+  .. .. .. ..$ mod_note               : NULL
+  .. .. .. ..$ is_video               : logi FALSE
+  .. .. .. ..$ distinguished          : NULL
+  .. ..$ :List of 2
+  .. .. ..$ kind: chr "t3"
+  .. .. ..$ data:List of 71
+  .. .. .. ..$ domain                 : chr "self.burstcoin"
+  .. .. .. ..$ approved_at_utc        : NULL
+  .. .. .. ..$ mod_reason_by          : NULL
+  .. .. .. ..$ banned_by              : NULL
+  .. .. .. ..$ num_reports            : NULL
+  .. .. .. ..$ subreddit_id           : chr "t5_331i6"
+  .. .. .. ..$ thumbnail_width        : NULL
+  .. .. .. ..$ subreddit              : chr "burstcoin"
+  .. .. .. ..$ selftext_html          : NULL
+  .. .. .. ..$ selftext               : chr ""
+  .. .. .. ..$ likes                  : NULL
+  .. .. .. ..$ suggested_sort         : NULL
+  .. .. .. ..$ user_reports           : list()
+  .. .. .. .. ..- attr(*, "class")= chr "AsIs"
+  .. .. .. ..$ secure_media           : NULL
+  .. .. .. ..$ is_reddit_media_domain : logi FALSE
+  .. .. .. ..$ link_flair_text        : chr "Discussion"
+  .. .. .. ..$ id                     : chr "7s9c7u"
+  .. .. .. ..$ banned_at_utc          : NULL
+  .. .. .. ..$ mod_reason_title       : NULL
+  .. .. .. ..$ view_count             : NULL
+  .. .. .. ..$ archived               : logi FALSE
+  .. .. .. ..$ clicked                : logi FALSE
+  .. .. .. ..$ media_embed            : Named list()
+  .. .. .. ..$ report_reasons         : NULL
+  .. .. .. ..$ author                 : chr "burstcoins"
+  .. .. .. ..$ num_crossposts         : num 0
+  .. .. .. ..$ saved                  : logi FALSE
+  .. .. .. ..$ mod_reports            : list()
+  .. .. .. .. ..- attr(*, "class")= chr "AsIs"
+  .. .. .. ..$ can_mod_post           : logi FALSE
+  .. .. .. ..$ is_crosspostable       : logi FALSE
+  .. .. .. ..$ pinned                 : logi FALSE
+  .. .. .. ..$ score                  : num 3
+  .. .. .. ..$ approved_by            : NULL
+  .. .. .. ..$ over_18                : logi FALSE
+  .. .. .. ..$ hidden                 : logi FALSE
+  .. .. .. ..$ thumbnail              : chr "self"
+  .. .. .. ..$ edited                 : logi FALSE
+  .. .. .. ..$ link_flair_css_class   : chr "Discussion"
+  .. .. .. ..$ author_flair_css_class : chr "space"
+  .. .. .. ..$ contest_mode           : logi FALSE
+  .. .. .. ..$ gilded                 : num 0
+  .. .. .. ..$ downs                  : num 0
+  .. .. .. ..$ brand_safe             : logi FALSE
+  .. .. .. ..$ secure_media_embed     : Named list()
+  .. .. .. ..$ removal_reason         : NULL
+  .. .. .. ..$ author_flair_text      : chr "Space Pool"
+  .. .. .. ..$ stickied               : logi FALSE
+  .. .. .. ..$ can_gild               : logi FALSE
+  .. .. .. ..$ thumbnail_height       : NULL
+  .. .. .. ..$ parent_whitelist_status: NULL
+  .. .. .. ..$ name                   : chr "t3_7s9c7u"
+  .. .. .. ..$ spoiler                : logi FALSE
+  .. .. .. ..$ permalink              : chr "/r/burstcoin/comments/7s9c7u/anyone_have_tried_gambling_on_bitslercom/"
+  .. .. .. ..$ subreddit_type         : chr "public"
+  .. .. .. ..$ locked                 : logi FALSE
+  .. .. .. ..$ hide_score             : logi FALSE
+  .. .. .. ..$ created                : num 1.52e+09
+  .. .. .. ..$ url                    : chr "https://www.reddit.com/r/burstcoin/comments/7s9c7u/anyone_have_tried_gambling_on_bitslercom/"
+  .. .. .. ..$ whitelist_status       : NULL
+  .. .. .. ..$ quarantine             : logi FALSE
+  .. .. .. ..$ title                  : chr "Anyone have tried gambling on bitsler.com?"
+  .. .. .. ..$ created_utc            : num 1.52e+09
+  .. .. .. ..$ subreddit_name_prefixed: chr "r/burstcoin"
+  .. .. .. ..$ ups                    : num 3
+  .. .. .. ..$ media                  : NULL
+  .. .. .. ..$ num_comments           : num 14
+  .. .. .. ..$ is_self                : logi TRUE
+  .. .. .. ..$ visited                : logi FALSE
+  .. .. .. ..$ mod_note               : NULL
+  .. .. .. ..$ is_video               : logi FALSE
+  .. .. .. ..$ distinguished          : NULL
+  .. ..$ :List of 2
+  .. .. ..$ kind: chr "t3"
+  .. .. ..$ data:List of 71
+  .. .. .. ..$ domain                 : chr "self.burstcoin"
+  .. .. .. ..$ approved_at_utc        : NULL
+  .. .. .. ..$ mod_reason_by          : NULL
+  .. .. .. ..$ banned_by              : NULL
+  .. .. .. ..$ num_reports            : NULL
+  .. .. .. ..$ subreddit_id           : chr "t5_331i6"
+  .. .. .. ..$ thumbnail_width        : NULL
+  .. .. .. ..$ subreddit              : chr "burstcoin"
+  .. .. .. ..$ selftext_html          : chr "&lt;!-- SC_OFF --&gt;&lt;div class=\"md\"&gt;&lt;p&gt;Had a quick search , hope this hasn&amp;#39;t been asked before....&lt;/p"| __truncated__
+  .. .. .. ..$ selftext               : chr "Had a quick search , hope this hasn't been asked before....\n\nIs it feasible to mine on two setups using the same account / ID"| __truncated__
+  .. .. .. ..$ likes                  : NULL
+  .. .. .. ..$ suggested_sort         : NULL
+  .. .. .. ..$ user_reports           : list()
+  .. .. .. .. ..- attr(*, "class")= chr "AsIs"
+  .. .. .. ..$ secure_media           : NULL
+  .. .. .. ..$ is_reddit_media_domain : logi FALSE
+  .. .. .. ..$ link_flair_text        : chr "Mining"
+  .. .. .. ..$ id                     : chr "7s97fw"
+  .. .. .. ..$ banned_at_utc          : NULL
+  .. .. .. ..$ mod_reason_title       : NULL
+  .. .. .. ..$ view_count             : NULL
+  .. .. .. ..$ archived               : logi FALSE
+  .. .. .. ..$ clicked                : logi FALSE
+  .. .. .. ..$ media_embed            : Named list()
+  .. .. .. ..$ report_reasons         : NULL
+  .. .. .. ..$ author                 : chr "Sixxdog_UK"
+  .. .. .. ..$ num_crossposts         : num 0
+  .. .. .. ..$ saved                  : logi FALSE
+  .. .. .. ..$ mod_reports            : list()
+  .. .. .. .. ..- attr(*, "class")= chr "AsIs"
+  .. .. .. ..$ can_mod_post           : logi FALSE
+  .. .. .. ..$ is_crosspostable       : logi FALSE
+  .. .. .. ..$ pinned                 : logi FALSE
+  .. .. .. ..$ score                  : num 2
+  .. .. .. ..$ approved_by            : NULL
+  .. .. .. ..$ over_18                : logi FALSE
+  .. .. .. ..$ hidden                 : logi FALSE
+  .. .. .. ..$ thumbnail              : chr "self"
+  .. .. .. ..$ edited                 : logi FALSE
+  .. .. .. ..$ link_flair_css_class   : chr "Mining"
+  .. .. .. ..$ author_flair_css_class : NULL
+  .. .. .. ..$ contest_mode           : logi FALSE
+  .. .. .. ..$ gilded                 : num 0
+  .. .. .. ..$ downs                  : num 0
+  .. .. .. ..$ brand_safe             : logi FALSE
+  .. .. .. ..$ secure_media_embed     : Named list()
+  .. .. .. ..$ removal_reason         : NULL
+  .. .. .. ..$ author_flair_text      : NULL
+  .. .. .. ..$ stickied               : logi FALSE
+  .. .. .. ..$ can_gild               : logi FALSE
+  .. .. .. ..$ thumbnail_height       : NULL
+  .. .. .. ..$ parent_whitelist_status: NULL
+  .. .. .. ..$ name                   : chr "t3_7s97fw"
+  .. .. .. ..$ spoiler                : logi FALSE
+  .. .. .. ..$ permalink              : chr "/r/burstcoin/comments/7s97fw/mine_one_two_rigs_using_same_account_plotting_two/"
+  .. .. .. ..$ subreddit_type         : chr "public"
+  .. .. .. ..$ locked                 : logi FALSE
+  .. .. .. ..$ hide_score             : logi FALSE
+  .. .. .. ..$ created                : num 1.52e+09
+  .. .. .. ..$ url                    : chr "https://www.reddit.com/r/burstcoin/comments/7s97fw/mine_one_two_rigs_using_same_account_plotting_two/"
+  .. .. .. ..$ whitelist_status       : NULL
+  .. .. .. ..$ quarantine             : logi FALSE
+  .. .. .. ..$ title                  : chr "Mine one two rigs using same account? Plotting two drives at same time?"
+  .. .. .. ..$ created_utc            : num 1.52e+09
+  .. .. .. ..$ subreddit_name_prefixed: chr "r/burstcoin"
+  .. .. .. ..$ ups                    : num 2
+  .. .. .. ..$ media                  : NULL
+  .. .. .. ..$ num_comments           : num 2
+  .. .. .. ..$ is_self                : logi TRUE
+  .. .. .. ..$ visited                : logi FALSE
+  .. .. .. ..$ mod_note               : NULL
+  .. .. .. ..$ is_video               : logi FALSE
+  .. .. .. ..$ distinguished          : NULL
+  .. ..$ :List of 2
+  .. .. ..$ kind: chr "t3"
+  .. .. ..$ data:List of 73
+  .. .. .. ..$ domain                 : chr "self.burstcoin"
+  .. .. .. ..$ approved_at_utc        : NULL
+  .. .. .. ..$ mod_reason_by          : NULL
+  .. .. .. ..$ banned_by              : NULL
+  .. .. .. ..$ num_reports            : NULL
+  .. .. .. ..$ subreddit_id           : chr "t5_331i6"
+  .. .. .. ..$ thumbnail_width        : NULL
+  .. .. .. ..$ subreddit              : chr "burstcoin"
+  .. .. .. ..$ selftext_html          : chr "&lt;!-- SC_OFF --&gt;&lt;div class=\"md\"&gt;&lt;p&gt;Has anyone ever tried using a Drobo (Beyond RAID) unit with burst coin?&l"| __truncated__
+  .. .. .. ..$ selftext               : chr "Has anyone ever tried using a Drobo (Beyond RAID) unit with burst coin?\n\nBasically it takes a whole bunch of your old hard dr"| __truncated__
+  .. .. .. ..$ likes                  : NULL
+  .. .. .. ..$ suggested_sort         : NULL
+  .. .. .. ..$ user_reports           : list()
+  .. .. .. .. ..- attr(*, "class")= chr "AsIs"
+  .. .. .. ..$ secure_media           : NULL
+  .. .. .. ..$ is_reddit_media_domain : logi FALSE
+  .. .. .. ..$ link_flair_text        : chr "Mining"
+  .. .. .. ..$ id                     : chr "7s8ura"
+  .. .. .. ..$ banned_at_utc          : NULL
+  .. .. .. ..$ mod_reason_title       : NULL
+  .. .. .. ..$ view_count             : NULL
+  .. .. .. ..$ archived               : logi FALSE
+  .. .. .. ..$ clicked                : logi FALSE
+  .. .. .. ..$ media_embed            : Named list()
+  .. .. .. ..$ report_reasons         : NULL
+  .. .. .. ..$ author                 : chr "Sixxdog_UK"
+  .. .. .. ..$ num_crossposts         : num 0
+  .. .. .. ..$ saved                  : logi FALSE
+  .. .. .. ..$ mod_reports            : list()
+  .. .. .. .. ..- attr(*, "class")= chr "AsIs"
+  .. .. .. ..$ can_mod_post           : logi FALSE
+  .. .. .. ..$ is_crosspostable       : logi FALSE
+  .. .. .. ..$ pinned                 : logi FALSE
+  .. .. .. ..$ score                  : num 0
+  .. .. .. ..$ approved_by            : NULL
+  .. .. .. ..$ over_18                : logi FALSE
+  .. .. .. ..$ hidden                 : logi FALSE
+  .. .. .. ..$ preview                :List of 2
+  .. .. .. .. ..$ images :List of 1
+  .. .. .. .. .. ..$ :List of 4
+  .. .. .. .. .. .. ..$ source     :List of 3
+  .. .. .. .. .. .. .. ..$ url   : chr "https://i.redditmedia.com/3nVyoBY3egaUKqQoN5U11GnfDotWNhkZE39bxPj9qUw.jpg?s=f1028c3fbb50c37d38695146b00f68df"
+  .. .. .. .. .. .. .. ..$ width : num 1200
+  .. .. .. .. .. .. .. ..$ height: num 630
+  .. .. .. .. .. .. ..$ resolutions:List of 6
+  .. .. .. .. .. .. .. ..$ :List of 3
+  .. .. .. .. .. .. .. .. ..$ url   : chr "https://i.redditmedia.com/3nVyoBY3egaUKqQoN5U11GnfDotWNhkZE39bxPj9qUw.jpg?fit=crop&amp;crop=faces%2Centropy&amp;arh=2&amp;w=108"| __truncated__
+  .. .. .. .. .. .. .. .. ..$ width : num 108
+  .. .. .. .. .. .. .. .. ..$ height: num 56
+  .. .. .. .. .. .. .. ..$ :List of 3
+  .. .. .. .. .. .. .. .. ..$ url   : chr "https://i.redditmedia.com/3nVyoBY3egaUKqQoN5U11GnfDotWNhkZE39bxPj9qUw.jpg?fit=crop&amp;crop=faces%2Centropy&amp;arh=2&amp;w=216"| __truncated__
+  .. .. .. .. .. .. .. .. ..$ width : num 216
+  .. .. .. .. .. .. .. .. ..$ height: num 113
+  .. .. .. .. .. .. .. ..$ :List of 3
+  .. .. .. .. .. .. .. .. ..$ url   : chr "https://i.redditmedia.com/3nVyoBY3egaUKqQoN5U11GnfDotWNhkZE39bxPj9qUw.jpg?fit=crop&amp;crop=faces%2Centropy&amp;arh=2&amp;w=320"| __truncated__
+  .. .. .. .. .. .. .. .. ..$ width : num 320
+  .. .. .. .. .. .. .. .. ..$ height: num 168
+  .. .. .. .. .. .. .. ..$ :List of 3
+  .. .. .. .. .. .. .. .. ..$ url   : chr "https://i.redditmedia.com/3nVyoBY3egaUKqQoN5U11GnfDotWNhkZE39bxPj9qUw.jpg?fit=crop&amp;crop=faces%2Centropy&amp;arh=2&amp;w=640"| __truncated__
+  .. .. .. .. .. .. .. .. ..$ width : num 640
+  .. .. .. .. .. .. .. .. ..$ height: num 336
+  .. .. .. .. .. .. .. ..$ :List of 3
+  .. .. .. .. .. .. .. .. ..$ url   : chr "https://i.redditmedia.com/3nVyoBY3egaUKqQoN5U11GnfDotWNhkZE39bxPj9qUw.jpg?fit=crop&amp;crop=faces%2Centropy&amp;arh=2&amp;w=960"| __truncated__
+  .. .. .. .. .. .. .. .. ..$ width : num 960
+  .. .. .. .. .. .. .. .. ..$ height: num 504
+  .. .. .. .. .. .. .. ..$ :List of 3
+  .. .. .. .. .. .. .. .. ..$ url   : chr "https://i.redditmedia.com/3nVyoBY3egaUKqQoN5U11GnfDotWNhkZE39bxPj9qUw.jpg?fit=crop&amp;crop=faces%2Centropy&amp;arh=2&amp;w=108"| __truncated__
+  .. .. .. .. .. .. .. .. ..$ width : num 1080
+  .. .. .. .. .. .. .. .. ..$ height: num 567
+  .. .. .. .. .. .. ..$ variants   : Named list()
+  .. .. .. .. .. .. ..$ id         : chr "d0x0I7V-ag8luFS14QIcG6nxzj8tQeQYw_-2GYTeGfE"
+  .. .. .. .. ..$ enabled: logi FALSE
+  .. .. .. ..$ thumbnail              : chr "self"
+  .. .. .. ..$ edited                 : num 1.52e+09
+  .. .. .. ..$ link_flair_css_class   : chr "Mining"
+  .. .. .. ..$ author_flair_css_class : NULL
+  .. .. .. ..$ contest_mode           : logi FALSE
+  .. .. .. ..$ gilded                 : num 0
+  .. .. .. ..$ downs                  : num 0
+  .. .. .. ..$ brand_safe             : logi FALSE
+  .. .. .. ..$ secure_media_embed     : Named list()
+  .. .. .. ..$ removal_reason         : NULL
+  .. .. .. ..$ post_hint              : chr "self"
+  .. .. .. ..$ author_flair_text      : NULL
+  .. .. .. ..$ stickied               : logi FALSE
+  .. .. .. ..$ can_gild               : logi FALSE
+  .. .. .. ..$ thumbnail_height       : NULL
+  .. .. .. ..$ parent_whitelist_status: NULL
+  .. .. .. ..$ name                   : chr "t3_7s8ura"
+  .. .. .. ..$ spoiler                : logi FALSE
+  .. .. .. ..$ permalink              : chr "/r/burstcoin/comments/7s8ura/drobo_with_burst_coin/"
+  .. .. .. ..$ subreddit_type         : chr "public"
+  .. .. .. ..$ locked                 : logi FALSE
+  .. .. .. ..$ hide_score             : logi FALSE
+  .. .. .. ..$ created                : num 1.52e+09
+  .. .. .. ..$ url                    : chr "https://www.reddit.com/r/burstcoin/comments/7s8ura/drobo_with_burst_coin/"
+  .. .. .. ..$ whitelist_status       : NULL
+  .. .. .. ..$ quarantine             : logi FALSE
+  .. .. .. ..$ title                  : chr "DROBO with Burst Coin"
+  .. .. .. ..$ created_utc            : num 1.52e+09
+  .. .. .. ..$ subreddit_name_prefixed: chr "r/burstcoin"
+  .. .. .. ..$ ups                    : num 0
+  .. .. .. ..$ media                  : NULL
+  .. .. .. ..$ num_comments           : num 11
+  .. .. .. ..$ is_self                : logi TRUE
+  .. .. .. ..$ visited                : logi FALSE
+  .. .. .. ..$ mod_note               : NULL
+  .. .. .. ..$ is_video               : logi FALSE
+  .. .. .. ..$ distinguished          : NULL
+  .. ..$ :List of 2
+  .. .. ..$ kind: chr "t3"
+  .. .. ..$ data:List of 71
+  .. .. .. ..$ domain                 : chr "self.burstcoin"
+  .. .. .. ..$ approved_at_utc        : NULL
+  .. .. .. ..$ mod_reason_by          : NULL
+  .. .. .. ..$ banned_by              : NULL
+  .. .. .. ..$ num_reports            : NULL
+  .. .. .. ..$ subreddit_id           : chr "t5_331i6"
+  .. .. .. ..$ thumbnail_width        : NULL
+  .. .. .. ..$ subreddit              : chr "burstcoin"
+  .. .. .. ..$ selftext_html          : chr "&lt;!-- SC_OFF --&gt;&lt;div class=\"md\"&gt;&lt;p&gt;Question for any of you that use the built in xplotter. I&amp;#39;m just "| __truncated__
+  .. .. .. ..$ selftext               : chr "Question for any of you that use the built in xplotter. I'm just getting back into Burst after like a year away. I'm plotting m"| __truncated__
+  .. .. .. ..$ likes                  : NULL
+  .. .. .. ..$ suggested_sort         : NULL
+  .. .. .. ..$ user_reports           : list()
+  .. .. .. .. ..- attr(*, "class")= chr "AsIs"
+  .. .. .. ..$ secure_media           : NULL
+  .. .. .. ..$ is_reddit_media_domain : logi FALSE
+  .. .. .. ..$ link_flair_text        : chr "Mining"
+  .. .. .. ..$ id                     : chr "7s7s9g"
+  .. .. .. ..$ banned_at_utc          : NULL
+  .. .. .. ..$ mod_reason_title       : NULL
+  .. .. .. ..$ view_count             : NULL
+  .. .. .. ..$ archived               : logi FALSE
+  .. .. .. ..$ clicked                : logi FALSE
+  .. .. .. ..$ media_embed            : Named list()
+  .. .. .. ..$ report_reasons         : NULL
+  .. .. .. ..$ author                 : chr "CyberSKulls"
+  .. .. .. ..$ num_crossposts         : num 0
+  .. .. .. ..$ saved                  : logi FALSE
+  .. .. .. ..$ mod_reports            : list()
+  .. .. .. .. ..- attr(*, "class")= chr "AsIs"
+  .. .. .. ..$ can_mod_post           : logi FALSE
+  .. .. .. ..$ is_crosspostable       : logi FALSE
+  .. .. .. ..$ pinned                 : logi FALSE
+  .. .. .. ..$ score                  : num 3
+  .. .. .. ..$ approved_by            : NULL
+  .. .. .. ..$ over_18                : logi FALSE
+  .. .. .. ..$ hidden                 : logi FALSE
+  .. .. .. ..$ thumbnail              : chr "self"
+  .. .. .. ..$ edited                 : logi FALSE
+  .. .. .. ..$ link_flair_css_class   : chr "Mining"
+  .. .. .. ..$ author_flair_css_class : NULL
+  .. .. .. ..$ contest_mode           : logi FALSE
+  .. .. .. ..$ gilded                 : num 0
+  .. .. .. ..$ downs                  : num 0
+  .. .. .. ..$ brand_safe             : logi FALSE
+  .. .. .. ..$ secure_media_embed     : Named list()
+  .. .. .. ..$ removal_reason         : NULL
+  .. .. .. ..$ author_flair_text      : NULL
+  .. .. .. ..$ stickied               : logi FALSE
+  .. .. .. ..$ can_gild               : logi FALSE
+  .. .. .. ..$ thumbnail_height       : NULL
+  .. .. .. ..$ parent_whitelist_status: NULL
+  .. .. .. ..$ name                   : chr "t3_7s7s9g"
+  .. .. .. ..$ spoiler                : logi FALSE
+  .. .. .. ..$ permalink              : chr "/r/burstcoin/comments/7s7s9g/xplotter_write_speed/"
+  .. .. .. ..$ subreddit_type         : chr "public"
+  .. .. .. ..$ locked                 : logi FALSE
+  .. .. .. ..$ hide_score             : logi FALSE
+  .. .. .. ..$ created                : num 1.52e+09
+  .. .. .. ..$ url                    : chr "https://www.reddit.com/r/burstcoin/comments/7s7s9g/xplotter_write_speed/"
+  .. .. .. ..$ whitelist_status       : NULL
+  .. .. .. ..$ quarantine             : logi FALSE
+  .. .. .. ..$ title                  : chr "Xplotter write speed"
+  .. .. .. ..$ created_utc            : num 1.52e+09
+  .. .. .. ..$ subreddit_name_prefixed: chr "r/burstcoin"
+  .. .. .. ..$ ups                    : num 3
+  .. .. .. ..$ media                  : NULL
+  .. .. .. ..$ num_comments           : num 7
+  .. .. .. ..$ is_self                : logi TRUE
+  .. .. .. ..$ visited                : logi FALSE
+  .. .. .. ..$ mod_note               : NULL
+  .. .. .. ..$ is_video               : logi FALSE
+  .. .. .. ..$ distinguished          : NULL
+  .. ..$ :List of 2
+  .. .. ..$ kind: chr "t3"
+  .. .. ..$ data:List of 71
+  .. .. .. ..$ domain                 : chr "self.burstcoin"
+  .. .. .. ..$ approved_at_utc        : NULL
+  .. .. .. ..$ mod_reason_by          : NULL
+  .. .. .. ..$ banned_by              : NULL
+  .. .. .. ..$ num_reports            : NULL
+  .. .. .. ..$ subreddit_id           : chr "t5_331i6"
+  .. .. .. ..$ thumbnail_width        : NULL
+  .. .. .. ..$ subreddit              : chr "burstcoin"
+  .. .. .. ..$ selftext_html          : chr "&lt;!-- SC_OFF --&gt;&lt;div class=\"md\"&gt;&lt;p&gt;I&amp;#39;m currently running 4 R9 Tri-Xs, i5-6500, and 32GB TridentZ in "| __truncated__
+  .. .. .. ..$ selftext               : chr "I'm currently running 4 R9 Tri-Xs, i5-6500, and 32GB TridentZ in an ETH rig and I recently started looking into Burst.  I've go"| __truncated__
+  .. .. .. ..$ likes                  : NULL
+  .. .. .. ..$ suggested_sort         : NULL
+  .. .. .. ..$ user_reports           : list()
+  .. .. .. .. ..- attr(*, "class")= chr "AsIs"
+  .. .. .. ..$ secure_media           : NULL
+  .. .. .. ..$ is_reddit_media_domain : logi FALSE
+  .. .. .. ..$ link_flair_text        : chr "Help"
+  .. .. .. ..$ id                     : chr "7s7apo"
+  .. .. .. ..$ banned_at_utc          : NULL
+  .. .. .. ..$ mod_reason_title       : NULL
+  .. .. .. ..$ view_count             : NULL
+  .. .. .. ..$ archived               : logi FALSE
+  .. .. .. ..$ clicked                : logi FALSE
+  .. .. .. ..$ media_embed            : Named list()
+  .. .. .. ..$ report_reasons         : NULL
+  .. .. .. ..$ author                 : chr "saints_fan85"
+  .. .. .. ..$ num_crossposts         : num 0
+  .. .. .. ..$ saved                  : logi FALSE
+  .. .. .. ..$ mod_reports            : list()
+  .. .. .. .. ..- attr(*, "class")= chr "AsIs"
+  .. .. .. ..$ can_mod_post           : logi FALSE
+  .. .. .. ..$ is_crosspostable       : logi FALSE
+  .. .. .. ..$ pinned                 : logi FALSE
+  .. .. .. ..$ score                  : num 2
+  .. .. .. ..$ approved_by            : NULL
+  .. .. .. ..$ over_18                : logi FALSE
+  .. .. .. ..$ hidden                 : logi FALSE
+  .. .. .. ..$ thumbnail              : chr "self"
+  .. .. .. ..$ edited                 : logi FALSE
+  .. .. .. ..$ link_flair_css_class   : chr "Help"
+  .. .. .. ..$ author_flair_css_class : NULL
+  .. .. .. ..$ contest_mode           : logi FALSE
+  .. .. .. ..$ gilded                 : num 0
+  .. .. .. ..$ downs                  : num 0
+  .. .. .. ..$ brand_safe             : logi FALSE
+  .. .. .. ..$ secure_media_embed     : Named list()
+  .. .. .. ..$ removal_reason         : NULL
+  .. .. .. ..$ author_flair_text      : NULL
+  .. .. .. ..$ stickied               : logi FALSE
+  .. .. .. ..$ can_gild               : logi FALSE
+  .. .. .. ..$ thumbnail_height       : NULL
+  .. .. .. ..$ parent_whitelist_status: NULL
+  .. .. .. ..$ name                   : chr "t3_7s7apo"
+  .. .. .. ..$ spoiler                : logi FALSE
+  .. .. .. ..$ permalink              : chr "/r/burstcoin/comments/7s7apo/cpu_plotting_slowing_down_gpu_eth_mining/"
+  .. .. .. ..$ subreddit_type         : chr "public"
+  .. .. .. ..$ locked                 : logi FALSE
+  .. .. .. ..$ hide_score             : logi FALSE
+  .. .. .. ..$ created                : num 1.52e+09
+  .. .. .. ..$ url                    : chr "https://www.reddit.com/r/burstcoin/comments/7s7apo/cpu_plotting_slowing_down_gpu_eth_mining/"
+  .. .. .. ..$ whitelist_status       : NULL
+  .. .. .. ..$ quarantine             : logi FALSE
+  .. .. .. ..$ title                  : chr "CPU plotting slowing down GPU ETH mining?"
+  .. .. .. ..$ created_utc            : num 1.52e+09
+  .. .. .. ..$ subreddit_name_prefixed: chr "r/burstcoin"
+  .. .. .. ..$ ups                    : num 2
+  .. .. .. ..$ media                  : NULL
+  .. .. .. ..$ num_comments           : num 6
+  .. .. .. ..$ is_self                : logi TRUE
+  .. .. .. ..$ visited                : logi FALSE
+  .. .. .. ..$ mod_note               : NULL
+  .. .. .. ..$ is_video               : logi FALSE
+  .. .. .. ..$ distinguished          : NULL
+  .. ..$ :List of 2
+  .. .. ..$ kind: chr "t3"
+  .. .. ..$ data:List of 71
+  .. .. .. ..$ domain                 : chr "self.burstcoin"
+  .. .. .. ..$ approved_at_utc        : NULL
+  .. .. .. ..$ mod_reason_by          : NULL
+  .. .. .. ..$ banned_by              : NULL
+  .. .. .. ..$ num_reports            : NULL
+  .. .. .. ..$ subreddit_id           : chr "t5_331i6"
+  .. .. .. ..$ thumbnail_width        : NULL
+  .. .. .. ..$ subreddit              : chr "burstcoin"
+  .. .. .. ..$ selftext_html          : chr "&lt;!-- SC_OFF --&gt;&lt;div class=\"md\"&gt;&lt;p&gt;When I had 2 files - each at 1TB, I was getting 30 MB/s (about 30 to 40se"| __truncated__
+  .. .. .. ..$ selftext               : chr "When I had 2 files - each at 1TB, I was getting 30 MB/s (about 30 to 40seconds). Now, I added another 2TB file and my speed has"| __truncated__
+  .. .. .. ..$ likes                  : NULL
+  .. .. .. ..$ suggested_sort         : NULL
+  .. .. .. ..$ user_reports           : list()
+  .. .. .. .. ..- attr(*, "class")= chr "AsIs"
+  .. .. .. ..$ secure_media           : NULL
+  .. .. .. ..$ is_reddit_media_domain : logi FALSE
+  .. .. .. ..$ link_flair_text        : chr "Mining"
+  .. .. .. ..$ id                     : chr "7s6zy9"
+  .. .. .. ..$ banned_at_utc          : NULL
+  .. .. .. ..$ mod_reason_title       : NULL
+  .. .. .. ..$ view_count             : NULL
+  .. .. .. ..$ archived               : logi FALSE
+  .. .. .. ..$ clicked                : logi FALSE
+  .. .. .. ..$ media_embed            : Named list()
+  .. .. .. ..$ report_reasons         : NULL
+  .. .. .. ..$ author                 : chr "bijansha"
+  .. .. .. ..$ num_crossposts         : num 0
+  .. .. .. ..$ saved                  : logi FALSE
+  .. .. .. ..$ mod_reports            : list()
+  .. .. .. .. ..- attr(*, "class")= chr "AsIs"
+  .. .. .. ..$ can_mod_post           : logi FALSE
+  .. .. .. ..$ is_crosspostable       : logi FALSE
+  .. .. .. ..$ pinned                 : logi FALSE
+  .. .. .. ..$ score                  : num 2
+  .. .. .. ..$ approved_by            : NULL
+  .. .. .. ..$ over_18                : logi FALSE
+  .. .. .. ..$ hidden                 : logi FALSE
+  .. .. .. ..$ thumbnail              : chr "self"
+  .. .. .. ..$ edited                 : logi FALSE
+  .. .. .. ..$ link_flair_css_class   : chr "Mining"
+  .. .. .. ..$ author_flair_css_class : NULL
+  .. .. .. ..$ contest_mode           : logi FALSE
+  .. .. .. ..$ gilded                 : num 0
+  .. .. .. ..$ downs                  : num 0
+  .. .. .. ..$ brand_safe             : logi FALSE
+  .. .. .. ..$ secure_media_embed     : Named list()
+  .. .. .. ..$ removal_reason         : NULL
+  .. .. .. ..$ author_flair_text      : NULL
+  .. .. .. ..$ stickied               : logi FALSE
+  .. .. .. ..$ can_gild               : logi FALSE
+  .. .. .. ..$ thumbnail_height       : NULL
+  .. .. .. ..$ parent_whitelist_status: NULL
+  .. .. .. ..$ name                   : chr "t3_7s6zy9"
+  .. .. .. ..$ spoiler                : logi FALSE
+  .. .. .. ..$ permalink              : chr "/r/burstcoin/comments/7s6zy9/whats_an_acceptable_read_time/"
+  .. .. .. ..$ subreddit_type         : chr "public"
+  .. .. .. ..$ locked                 : logi FALSE
+  .. .. .. ..$ hide_score             : logi FALSE
+  .. .. .. ..$ created                : num 1.52e+09
+  .. .. .. ..$ url                    : chr "https://www.reddit.com/r/burstcoin/comments/7s6zy9/whats_an_acceptable_read_time/"
+  .. .. .. ..$ whitelist_status       : NULL
+  .. .. .. ..$ quarantine             : logi FALSE
+  .. .. .. ..$ title                  : chr "What's an acceptable read time?"
+  .. .. .. ..$ created_utc            : num 1.52e+09
+  .. .. .. ..$ subreddit_name_prefixed: chr "r/burstcoin"
+  .. .. .. ..$ ups                    : num 2
+  .. .. .. ..$ media                  : NULL
+  .. .. .. ..$ num_comments           : num 10
+  .. .. .. ..$ is_self                : logi TRUE
+  .. .. .. ..$ visited                : logi FALSE
+  .. .. .. ..$ mod_note               : NULL
+  .. .. .. ..$ is_video               : logi FALSE
+  .. .. .. ..$ distinguished          : NULL
+  .. ..$ :List of 2
+  .. .. ..$ kind: chr "t3"
+  .. .. ..$ data:List of 73
+  .. .. .. ..$ domain                 : chr "cobinhood.canny.io"
+  .. .. .. ..$ approved_at_utc        : NULL
+  .. .. .. ..$ mod_reason_by          : NULL
+  .. .. .. ..$ banned_by              : NULL
+  .. .. .. ..$ num_reports            : NULL
+  .. .. .. ..$ subreddit_id           : chr "t5_331i6"
+  .. .. .. ..$ thumbnail_width        : num 140
+  .. .. .. ..$ subreddit              : chr "burstcoin"
+  .. .. .. ..$ selftext_html          : NULL
+  .. .. .. ..$ selftext               : chr ""
+  .. .. .. ..$ likes                  : NULL
+  .. .. .. ..$ suggested_sort         : NULL
+  .. .. .. ..$ user_reports           : list()
+  .. .. .. .. ..- attr(*, "class")= chr "AsIs"
+  .. .. .. ..$ secure_media           : NULL
+  .. .. .. ..$ is_reddit_media_domain : logi FALSE
+  .. .. .. ..$ link_flair_text        : chr "Announcement"
+  .. .. .. ..$ id                     : chr "7s6tso"
+  .. .. .. ..$ banned_at_utc          : NULL
+  .. .. .. ..$ mod_reason_title       : NULL
+  .. .. .. ..$ view_count             : NULL
+  .. .. .. ..$ archived               : logi FALSE
+  .. .. .. ..$ clicked                : logi FALSE
+  .. .. .. ..$ media_embed            : Named list()
+  .. .. .. ..$ report_reasons         : NULL
+  .. .. .. ..$ author                 : chr "Gadrah"
+  .. .. .. ..$ num_crossposts         : num 0
+  .. .. .. ..$ saved                  : logi FALSE
+  .. .. .. ..$ mod_reports            : list()
+  .. .. .. .. ..- attr(*, "class")= chr "AsIs"
+  .. .. .. ..$ can_mod_post           : logi FALSE
+  .. .. .. ..$ is_crosspostable       : logi FALSE
+  .. .. .. ..$ pinned                 : logi FALSE
+  .. .. .. ..$ score                  : num 104
+  .. .. .. ..$ approved_by            : NULL
+  .. .. .. ..$ over_18                : logi FALSE
+  .. .. .. ..$ hidden                 : logi FALSE
+  .. .. .. ..$ preview                :List of 2
+  .. .. .. .. ..$ images :List of 1
+  .. .. .. .. .. ..$ :List of 4
+  .. .. .. .. .. .. ..$ source     :List of 3
+  .. .. .. .. .. .. .. ..$ url   : chr "https://i.redditmedia.com/_wFIhcCNsbBg8Rl_SUX5V6ejOxlh8dtCESByEf2sqio.jpg?s=a9e89de175355279362aa1bf35e14c14"
+  .. .. .. .. .. .. .. ..$ width : num 320
+  .. .. .. .. .. .. .. ..$ height: num 320
+  .. .. .. .. .. .. ..$ resolutions:List of 3
+  .. .. .. .. .. .. .. ..$ :List of 3
+  .. .. .. .. .. .. .. .. ..$ url   : chr "https://i.redditmedia.com/_wFIhcCNsbBg8Rl_SUX5V6ejOxlh8dtCESByEf2sqio.jpg?fit=crop&amp;crop=faces%2Centropy&amp;arh=2&amp;w=108"| __truncated__
+  .. .. .. .. .. .. .. .. ..$ width : num 108
+  .. .. .. .. .. .. .. .. ..$ height: num 108
+  .. .. .. .. .. .. .. ..$ :List of 3
+  .. .. .. .. .. .. .. .. ..$ url   : chr "https://i.redditmedia.com/_wFIhcCNsbBg8Rl_SUX5V6ejOxlh8dtCESByEf2sqio.jpg?fit=crop&amp;crop=faces%2Centropy&amp;arh=2&amp;w=216"| __truncated__
+  .. .. .. .. .. .. .. .. ..$ width : num 216
+  .. .. .. .. .. .. .. .. ..$ height: num 216
+  .. .. .. .. .. .. .. ..$ :List of 3
+  .. .. .. .. .. .. .. .. ..$ url   : chr "https://i.redditmedia.com/_wFIhcCNsbBg8Rl_SUX5V6ejOxlh8dtCESByEf2sqio.jpg?fit=crop&amp;crop=faces%2Centropy&amp;arh=2&amp;w=320"| __truncated__
+  .. .. .. .. .. .. .. .. ..$ width : num 320
+  .. .. .. .. .. .. .. .. ..$ height: num 320
+  .. .. .. .. .. .. ..$ variants   : Named list()
+  .. .. .. .. .. .. ..$ id         : chr "LTQ_asRQeU9WLWjUbaFxbVR8MhbsHoVct2UT6MaVyME"
+  .. .. .. .. ..$ enabled: logi FALSE
+  .. .. .. ..$ thumbnail              : chr "https://b.thumbs.redditmedia.com/jMy8t3XD2uMGBWoABdPCcyRnmUyKVtaNEPDjCCEWXXg.jpg"
+  .. .. .. ..$ edited                 : logi FALSE
+  .. .. .. ..$ link_flair_css_class   : chr "Announcement"
+  .. .. .. ..$ author_flair_css_class : chr "burstcoinist"
+  .. .. .. ..$ contest_mode           : logi FALSE
+  .. .. .. ..$ gilded                 : num 0
+  .. .. .. ..$ downs                  : num 0
+  .. .. .. ..$ brand_safe             : logi FALSE
+  .. .. .. ..$ secure_media_embed     : Named list()
+  .. .. .. ..$ removal_reason         : NULL
+  .. .. .. ..$ post_hint              : chr "link"
+  .. .. .. ..$ author_flair_text      : NULL
+  .. .. .. ..$ stickied               : logi FALSE
+  .. .. .. ..$ can_gild               : logi FALSE
+  .. .. .. ..$ thumbnail_height       : num 140
+  .. .. .. ..$ parent_whitelist_status: NULL
+  .. .. .. ..$ name                   : chr "t3_7s6tso"
+  .. .. .. ..$ spoiler                : logi FALSE
+  .. .. .. ..$ permalink              : chr "/r/burstcoin/comments/7s6tso/lets_get_burst_added_to_the_cobinhood_exchange/"
+  .. .. .. ..$ subreddit_type         : chr "public"
+  .. .. .. ..$ locked                 : logi FALSE
+  .. .. .. ..$ hide_score             : logi FALSE
+  .. .. .. ..$ created                : num 1.52e+09
+  .. .. .. ..$ url                    : chr "https://cobinhood.canny.io/exchange/p/list-burst-burst"
+  .. .. .. ..$ whitelist_status       : NULL
+  .. .. .. ..$ quarantine             : logi FALSE
+  .. .. .. ..$ title                  : chr "Let's get Burst added to the Cobinhood exchange - upvote and comment to show your support!"
+  .. .. .. ..$ created_utc            : num 1.52e+09
+  .. .. .. ..$ subreddit_name_prefixed: chr "r/burstcoin"
+  .. .. .. ..$ ups                    : num 104
+  .. .. .. ..$ media                  : NULL
+  .. .. .. ..$ num_comments           : num 4
+  .. .. .. ..$ is_self                : logi FALSE
+  .. .. .. ..$ visited                : logi FALSE
+  .. .. .. ..$ mod_note               : NULL
+  .. .. .. ..$ is_video               : logi FALSE
+  .. .. .. ..$ distinguished          : chr "moderator"
+  .. ..$ :List of 2
+  .. .. ..$ kind: chr "t3"
+  .. .. ..$ data:List of 71
+  .. .. .. ..$ domain                 : chr "self.burstcoin"
+  .. .. .. ..$ approved_at_utc        : NULL
+  .. .. .. ..$ mod_reason_by          : NULL
+  .. .. .. ..$ banned_by              : NULL
+  .. .. .. ..$ num_reports            : NULL
+  .. .. .. ..$ subreddit_id           : chr "t5_331i6"
+  .. .. .. ..$ thumbnail_width        : NULL
+  .. .. .. ..$ subreddit              : chr "burstcoin"
+  .. .. .. ..$ selftext_html          : chr "&lt;!-- SC_OFF --&gt;&lt;div class=\"md\"&gt;&lt;p&gt;Wondering if this will cause any issues. &lt;/p&gt;\n&lt;/div&gt;&lt;!-- "| __truncated__
+  .. .. .. ..$ selftext               : chr "Wondering if this will cause any issues. "
+  .. .. .. ..$ likes                  : NULL
+  .. .. .. ..$ suggested_sort         : NULL
+  .. .. .. ..$ user_reports           : list()
+  .. .. .. .. ..- attr(*, "class")= chr "AsIs"
+  .. .. .. ..$ secure_media           : NULL
+  .. .. .. ..$ is_reddit_media_domain : logi FALSE
+  .. .. .. ..$ link_flair_text        : chr "Mining"
+  .. .. .. ..$ id                     : chr "7s5y5a"
+  .. .. .. ..$ banned_at_utc          : NULL
+  .. .. .. ..$ mod_reason_title       : NULL
+  .. .. .. ..$ view_count             : NULL
+  .. .. .. ..$ archived               : logi FALSE
+  .. .. .. ..$ clicked                : logi FALSE
+  .. .. .. ..$ media_embed            : Named list()
+  .. .. .. ..$ report_reasons         : NULL
+  .. .. .. ..$ author                 : chr "bijansha"
+  .. .. .. ..$ num_crossposts         : num 0
+  .. .. .. ..$ saved                  : logi FALSE
+  .. .. .. ..$ mod_reports            : list()
+  .. .. .. .. ..- attr(*, "class")= chr "AsIs"
+  .. .. .. ..$ can_mod_post           : logi FALSE
+  .. .. .. ..$ is_crosspostable       : logi FALSE
+  .. .. .. ..$ pinned                 : logi FALSE
+  .. .. .. ..$ score                  : num 9
+  .. .. .. ..$ approved_by            : NULL
+  .. .. .. ..$ over_18                : logi FALSE
+  .. .. .. ..$ hidden                 : logi FALSE
+  .. .. .. ..$ thumbnail              : chr "self"
+  .. .. .. ..$ edited                 : logi FALSE
+  .. .. .. ..$ link_flair_css_class   : chr "Mining"
+  .. .. .. ..$ author_flair_css_class : NULL
+  .. .. .. ..$ contest_mode           : logi FALSE
+  .. .. .. ..$ gilded                 : num 0
+  .. .. .. ..$ downs                  : num 0
+  .. .. .. ..$ brand_safe             : logi FALSE
+  .. .. .. ..$ secure_media_embed     : Named list()
+  .. .. .. ..$ removal_reason         : NULL
+  .. .. .. ..$ author_flair_text      : NULL
+  .. .. .. ..$ stickied               : logi FALSE
+  .. .. .. ..$ can_gild               : logi FALSE
+  .. .. .. ..$ thumbnail_height       : NULL
+  .. .. .. ..$ parent_whitelist_status: NULL
+  .. .. .. ..$ name                   : chr "t3_7s5y5a"
+  .. .. .. ..$ spoiler                : logi FALSE
+  .. .. .. ..$ permalink              : chr "/r/burstcoin/comments/7s5y5a/can_you_plot_in_one_computer_and_then_mine_in/"
+  .. .. .. ..$ subreddit_type         : chr "public"
+  .. .. .. ..$ locked                 : logi FALSE
+  .. .. .. ..$ hide_score             : logi FALSE
+  .. .. .. ..$ created                : num 1.52e+09
+  .. .. .. ..$ url                    : chr "https://www.reddit.com/r/burstcoin/comments/7s5y5a/can_you_plot_in_one_computer_and_then_mine_in/"
+  .. .. .. ..$ whitelist_status       : NULL
+  .. .. .. ..$ quarantine             : logi FALSE
+  .. .. .. ..$ title                  : chr "Can you plot in one computer and then mine in another?"
+  .. .. .. ..$ created_utc            : num 1.52e+09
+  .. .. .. ..$ subreddit_name_prefixed: chr "r/burstcoin"
+  .. .. .. ..$ ups                    : num 9
+  .. .. .. ..$ media                  : NULL
+  .. .. .. ..$ num_comments           : num 6
+  .. .. .. ..$ is_self                : logi TRUE
+  .. .. .. ..$ visited                : logi FALSE
+  .. .. .. ..$ mod_note               : NULL
+  .. .. .. ..$ is_video               : logi FALSE
+  .. .. .. ..$ distinguished          : NULL
+  .. ..$ :List of 2
+  .. .. ..$ kind: chr "t3"
+  .. .. ..$ data:List of 73
+  .. .. .. ..$ domain                 : chr "i.redd.it"
+  .. .. .. ..$ approved_at_utc        : NULL
+  .. .. .. ..$ mod_reason_by          : NULL
+  .. .. .. ..$ banned_by              : NULL
+  .. .. .. ..$ num_reports            : NULL
+  .. .. .. ..$ subreddit_id           : chr "t5_331i6"
+  .. .. .. ..$ thumbnail_width        : num 140
+  .. .. .. ..$ subreddit              : chr "burstcoin"
+  .. .. .. ..$ selftext_html          : NULL
+  .. .. .. ..$ selftext               : chr ""
+  .. .. .. ..$ likes                  : NULL
+  .. .. .. ..$ suggested_sort         : NULL
+  .. .. .. ..$ user_reports           : list()
+  .. .. .. .. ..- attr(*, "class")= chr "AsIs"
+  .. .. .. ..$ secure_media           : NULL
+  .. .. .. ..$ is_reddit_media_domain : logi TRUE
+  .. .. .. ..$ link_flair_text        : chr "Help"
+  .. .. .. ..$ id                     : chr "7s5wf1"
+  .. .. .. ..$ banned_at_utc          : NULL
+  .. .. .. ..$ mod_reason_title       : NULL
+  .. .. .. ..$ view_count             : NULL
+  .. .. .. ..$ archived               : logi FALSE
+  .. .. .. ..$ clicked                : logi FALSE
+  .. .. .. ..$ media_embed            : Named list()
+  .. .. .. ..$ report_reasons         : NULL
+  .. .. .. ..$ author                 : chr "jimsonunique"
+  .. .. .. ..$ num_crossposts         : num 0
+  .. .. .. ..$ saved                  : logi FALSE
+  .. .. .. ..$ mod_reports            : list()
+  .. .. .. .. ..- attr(*, "class")= chr "AsIs"
+  .. .. .. ..$ can_mod_post           : logi FALSE
+  .. .. .. ..$ is_crosspostable       : logi FALSE
+  .. .. .. ..$ pinned                 : logi FALSE
+  .. .. .. ..$ score                  : num 1
+  .. .. .. ..$ approved_by            : NULL
+  .. .. .. ..$ over_18                : logi FALSE
+  .. .. .. ..$ hidden                 : logi FALSE
+  .. .. .. ..$ preview                :List of 2
+  .. .. .. .. ..$ images :List of 1
+  .. .. .. .. .. ..$ :List of 4
+  .. .. .. .. .. .. ..$ source     :List of 3
+  .. .. .. .. .. .. .. ..$ url   : chr "https://i.redditmedia.com/Y2o2MS16QBgtO2_OWytnukQFojn0hgRuAf-5LmCzTno.jpg?s=86fe40d76f0f349787c85c11da51a6fc"
+  .. .. .. .. .. .. .. ..$ width : num 4032
+  .. .. .. .. .. .. .. ..$ height: num 3024
+  .. .. .. .. .. .. ..$ resolutions:List of 6
+  .. .. .. .. .. .. .. ..$ :List of 3
+  .. .. .. .. .. .. .. .. ..$ url   : chr "https://i.redditmedia.com/Y2o2MS16QBgtO2_OWytnukQFojn0hgRuAf-5LmCzTno.jpg?fit=crop&amp;crop=faces%2Centropy&amp;arh=2&amp;w=108"| __truncated__
+  .. .. .. .. .. .. .. .. ..$ width : num 108
+  .. .. .. .. .. .. .. .. ..$ height: num 81
+  .. .. .. .. .. .. .. ..$ :List of 3
+  .. .. .. .. .. .. .. .. ..$ url   : chr "https://i.redditmedia.com/Y2o2MS16QBgtO2_OWytnukQFojn0hgRuAf-5LmCzTno.jpg?fit=crop&amp;crop=faces%2Centropy&amp;arh=2&amp;w=216"| __truncated__
+  .. .. .. .. .. .. .. .. ..$ width : num 216
+  .. .. .. .. .. .. .. .. ..$ height: num 162
+  .. .. .. .. .. .. .. ..$ :List of 3
+  .. .. .. .. .. .. .. .. ..$ url   : chr "https://i.redditmedia.com/Y2o2MS16QBgtO2_OWytnukQFojn0hgRuAf-5LmCzTno.jpg?fit=crop&amp;crop=faces%2Centropy&amp;arh=2&amp;w=320"| __truncated__
+  .. .. .. .. .. .. .. .. ..$ width : num 320
+  .. .. .. .. .. .. .. .. ..$ height: num 240
+  .. .. .. .. .. .. .. ..$ :List of 3
+  .. .. .. .. .. .. .. .. ..$ url   : chr "https://i.redditmedia.com/Y2o2MS16QBgtO2_OWytnukQFojn0hgRuAf-5LmCzTno.jpg?fit=crop&amp;crop=faces%2Centropy&amp;arh=2&amp;w=640"| __truncated__
+  .. .. .. .. .. .. .. .. ..$ width : num 640
+  .. .. .. .. .. .. .. .. ..$ height: num 480
+  .. .. .. .. .. .. .. ..$ :List of 3
+  .. .. .. .. .. .. .. .. ..$ url   : chr "https://i.redditmedia.com/Y2o2MS16QBgtO2_OWytnukQFojn0hgRuAf-5LmCzTno.jpg?fit=crop&amp;crop=faces%2Centropy&amp;arh=2&amp;w=960"| __truncated__
+  .. .. .. .. .. .. .. .. ..$ width : num 960
+  .. .. .. .. .. .. .. .. ..$ height: num 720
+  .. .. .. .. .. .. .. ..$ :List of 3
+  .. .. .. .. .. .. .. .. ..$ url   : chr "https://i.redditmedia.com/Y2o2MS16QBgtO2_OWytnukQFojn0hgRuAf-5LmCzTno.jpg?fit=crop&amp;crop=faces%2Centropy&amp;arh=2&amp;w=108"| __truncated__
+  .. .. .. .. .. .. .. .. ..$ width : num 1080
+  .. .. .. .. .. .. .. .. ..$ height: num 810
+  .. .. .. .. .. .. ..$ variants   : Named list()
+  .. .. .. .. .. .. ..$ id         : chr "g8j_jh8w1ln_uy41CAaEyjHjeJkaxVpXh0lw-9MhkSY"
+  .. .. .. .. ..$ enabled: logi TRUE
+  .. .. .. ..$ thumbnail              : chr "https://b.thumbs.redditmedia.com/M-7TnmwstZlSCCFHglUKOwJSg5TeviT6DOnVbx-33fQ.jpg"
+  .. .. .. ..$ edited                 : logi FALSE
+  .. .. .. ..$ link_flair_css_class   : chr "Help"
+  .. .. .. ..$ author_flair_css_class : NULL
+  .. .. .. ..$ contest_mode           : logi FALSE
+  .. .. .. ..$ gilded                 : num 0
+  .. .. .. ..$ downs                  : num 0
+  .. .. .. ..$ brand_safe             : logi FALSE
+  .. .. .. ..$ secure_media_embed     : Named list()
+  .. .. .. ..$ removal_reason         : NULL
+  .. .. .. ..$ post_hint              : chr "image"
+  .. .. .. ..$ author_flair_text      : NULL
+  .. .. .. ..$ stickied               : logi FALSE
+  .. .. .. ..$ can_gild               : logi FALSE
+  .. .. .. ..$ thumbnail_height       : num 105
+  .. .. .. ..$ parent_whitelist_status: NULL
+  .. .. .. ..$ name                   : chr "t3_7s5wf1"
+  .. .. .. ..$ spoiler                : logi FALSE
+  .. .. .. ..$ permalink              : chr "/r/burstcoin/comments/7s5wf1/new_to_burst_having_trouble_getting_going/"
+  .. .. .. ..$ subreddit_type         : chr "public"
+  .. .. .. ..$ locked                 : logi FALSE
+  .. .. .. ..$ hide_score             : logi FALSE
+  .. .. .. ..$ created                : num 1.52e+09
+  .. .. .. ..$ url                    : chr "https://i.redd.it/4vw8bbkqkmb01.jpg"
+  .. .. .. ..$ whitelist_status       : NULL
+  .. .. .. ..$ quarantine             : logi FALSE
+  .. .. .. ..$ title                  : chr "New to burst, having trouble getting going"
+  .. .. .. ..$ created_utc            : num 1.52e+09
+  .. .. .. ..$ subreddit_name_prefixed: chr "r/burstcoin"
+  .. .. .. ..$ ups                    : num 1
+  .. .. .. ..$ media                  : NULL
+  .. .. .. ..$ num_comments           : num 5
+  .. .. .. ..$ is_self                : logi FALSE
+  .. .. .. ..$ visited                : logi FALSE
+  .. .. .. ..$ mod_note               : NULL
+  .. .. .. ..$ is_video               : logi FALSE
+  .. .. .. ..$ distinguished          : NULL
+  .. ..$ :List of 2
+  .. .. ..$ kind: chr "t3"
+  .. .. ..$ data:List of 71
+  .. .. .. ..$ domain                 : chr "self.burstcoin"
+  .. .. .. ..$ approved_at_utc        : NULL
+  .. .. .. ..$ mod_reason_by          : NULL
+  .. .. .. ..$ banned_by              : NULL
+  .. .. .. ..$ num_reports            : NULL
+  .. .. .. ..$ subreddit_id           : chr "t5_331i6"
+  .. .. .. ..$ thumbnail_width        : NULL
+  .. .. .. ..$ subreddit              : chr "burstcoin"
+  .. .. .. ..$ selftext_html          : NULL
+  .. .. .. ..$ selftext               : chr ""
+  .. .. .. ..$ likes                  : NULL
+  .. .. .. ..$ suggested_sort         : NULL
+  .. .. .. ..$ user_reports           : list()
+  .. .. .. .. ..- attr(*, "class")= chr "AsIs"
+  .. .. .. ..$ secure_media           : NULL
+  .. .. .. ..$ is_reddit_media_domain : logi FALSE
+  .. .. .. ..$ link_flair_text        : chr "Discussion"
+  .. .. .. ..$ id                     : chr "7s4rig"
+  .. .. .. ..$ banned_at_utc          : NULL
+  .. .. .. ..$ mod_reason_title       : NULL
+  .. .. .. ..$ view_count             : NULL
+  .. .. .. ..$ archived               : logi FALSE
+  .. .. .. ..$ clicked                : logi FALSE
+  .. .. .. ..$ media_embed            : Named list()
+  .. .. .. ..$ report_reasons         : NULL
+  .. .. .. ..$ author                 : chr "boomworking"
+  .. .. .. ..$ num_crossposts         : num 0
+  .. .. .. ..$ saved                  : logi FALSE
+  .. .. .. ..$ mod_reports            : list()
+  .. .. .. .. ..- attr(*, "class")= chr "AsIs"
+  .. .. .. ..$ can_mod_post           : logi FALSE
+  .. .. .. ..$ is_crosspostable       : logi FALSE
+  .. .. .. ..$ pinned                 : logi FALSE
+  .. .. .. ..$ score                  : num 0
+  .. .. .. ..$ approved_by            : NULL
+  .. .. .. ..$ over_18                : logi FALSE
+  .. .. .. ..$ hidden                 : logi FALSE
+  .. .. .. ..$ thumbnail              : chr "self"
+  .. .. .. ..$ edited                 : logi FALSE
+  .. .. .. ..$ link_flair_css_class   : chr "Discussion"
+  .. .. .. ..$ author_flair_css_class : NULL
+  .. .. .. ..$ contest_mode           : logi FALSE
+  .. .. .. ..$ gilded                 : num 0
+  .. .. .. ..$ downs                  : num 0
+  .. .. .. ..$ brand_safe             : logi FALSE
+  .. .. .. ..$ secure_media_embed     : Named list()
+  .. .. .. ..$ removal_reason         : NULL
+  .. .. .. ..$ author_flair_text      : NULL
+  .. .. .. ..$ stickied               : logi FALSE
+  .. .. .. ..$ can_gild               : logi FALSE
+  .. .. .. ..$ thumbnail_height       : NULL
+  .. .. .. ..$ parent_whitelist_status: NULL
+  .. .. .. ..$ name                   : chr "t3_7s4rig"
+  .. .. .. ..$ spoiler                : logi FALSE
+  .. .. .. ..$ permalink              : chr "/r/burstcoin/comments/7s4rig/when_burst_masternode/"
+  .. .. .. ..$ subreddit_type         : chr "public"
+  .. .. .. ..$ locked                 : logi FALSE
+  .. .. .. ..$ hide_score             : logi FALSE
+  .. .. .. ..$ created                : num 1.52e+09
+  .. .. .. ..$ url                    : chr "https://www.reddit.com/r/burstcoin/comments/7s4rig/when_burst_masternode/"
+  .. .. .. ..$ whitelist_status       : NULL
+  .. .. .. ..$ quarantine             : logi FALSE
+  .. .. .. ..$ title                  : chr "When Burst Masternode ?"
+  .. .. .. ..$ created_utc            : num 1.52e+09
+  .. .. .. ..$ subreddit_name_prefixed: chr "r/burstcoin"
+  .. .. .. ..$ ups                    : num 0
+  .. .. .. ..$ media                  : NULL
+  .. .. .. ..$ num_comments           : num 30
+  .. .. .. ..$ is_self                : logi TRUE
+  .. .. .. ..$ visited                : logi FALSE
+  .. .. .. ..$ mod_note               : NULL
+  .. .. .. ..$ is_video               : logi FALSE
+  .. .. .. ..$ distinguished          : NULL
+  .. ..$ :List of 2
+  .. .. ..$ kind: chr "t3"
+  .. .. ..$ data:List of 73
+  .. .. .. ..$ domain                 : chr "cryptowizard370887289.wordpress.com"
+  .. .. .. ..$ approved_at_utc        : NULL
+  .. .. .. ..$ mod_reason_by          : NULL
+  .. .. .. ..$ banned_by              : NULL
+  .. .. .. ..$ num_reports            : NULL
+  .. .. .. ..$ subreddit_id           : chr "t5_331i6"
+  .. .. .. ..$ thumbnail_width        : num 140
+  .. .. .. ..$ subreddit              : chr "burstcoin"
+  .. .. .. ..$ selftext_html          : NULL
+  .. .. .. ..$ selftext               : chr ""
+  .. .. .. ..$ likes                  : NULL
+  .. .. .. ..$ suggested_sort         : NULL
+  .. .. .. ..$ user_reports           : list()
+  .. .. .. .. ..- attr(*, "class")= chr "AsIs"
+  .. .. .. ..$ secure_media           : NULL
+  .. .. .. ..$ is_reddit_media_domain : logi FALSE
+  .. .. .. ..$ link_flair_text        : chr "Discussion"
+  .. .. .. ..$ id                     : chr "7s2e3u"
+  .. .. .. ..$ banned_at_utc          : NULL
+  .. .. .. ..$ mod_reason_title       : NULL
+  .. .. .. ..$ view_count             : NULL
+  .. .. .. ..$ archived               : logi FALSE
+  .. .. .. ..$ clicked                : logi FALSE
+  .. .. .. ..$ media_embed            : Named list()
+  .. .. .. ..$ report_reasons         : NULL
+  .. .. .. ..$ author                 : chr "musclecar96"
+  .. .. .. ..$ num_crossposts         : num 0
+  .. .. .. ..$ saved                  : logi FALSE
+  .. .. .. ..$ mod_reports            : list()
+  .. .. .. .. ..- attr(*, "class")= chr "AsIs"
+  .. .. .. ..$ can_mod_post           : logi FALSE
+  .. .. .. ..$ is_crosspostable       : logi FALSE
+  .. .. .. ..$ pinned                 : logi FALSE
+  .. .. .. ..$ score                  : num 16
+  .. .. .. ..$ approved_by            : NULL
+  .. .. .. ..$ over_18                : logi FALSE
+  .. .. .. ..$ hidden                 : logi FALSE
+  .. .. .. ..$ preview                :List of 2
+  .. .. .. .. ..$ images :List of 1
+  .. .. .. .. .. ..$ :List of 4
+  .. .. .. .. .. .. ..$ source     :List of 3
+  .. .. .. .. .. .. .. ..$ url   : chr "https://i.redditmedia.com/F6AGihc6sjMmnVLm-XWIe0jcP2vPZpBwjOqH2PhZX-c.jpg?s=56a677929f9af56fa137ae07c36cfd15"
+  .. .. .. .. .. .. .. ..$ width : num 200
+  .. .. .. .. .. .. .. ..$ height: num 200
+  .. .. .. .. .. .. ..$ resolutions:List of 1
+  .. .. .. .. .. .. .. ..$ :List of 3
+  .. .. .. .. .. .. .. .. ..$ url   : chr "https://i.redditmedia.com/F6AGihc6sjMmnVLm-XWIe0jcP2vPZpBwjOqH2PhZX-c.jpg?fit=crop&amp;crop=faces%2Centropy&amp;arh=2&amp;w=108"| __truncated__
+  .. .. .. .. .. .. .. .. ..$ width : num 108
+  .. .. .. .. .. .. .. .. ..$ height: num 108
+  .. .. .. .. .. .. ..$ variants   : Named list()
+  .. .. .. .. .. .. ..$ id         : chr "sAYY86zgdT-GUuuQxQ55XhcVr4wy0uMIajd_UOBdg3Y"
+  .. .. .. .. ..$ enabled: logi FALSE
+  .. .. .. ..$ thumbnail              : chr "https://b.thumbs.redditmedia.com/U3MhhH93GYNC8UBmhHPsMn289JQ7C48lkKHCU9XaS7c.jpg"
+  .. .. .. ..$ edited                 : logi FALSE
+  .. .. .. ..$ link_flair_css_class   : chr "Discussion"
+  .. .. .. ..$ author_flair_css_class : NULL
+  .. .. .. ..$ contest_mode           : logi FALSE
+  .. .. .. ..$ gilded                 : num 0
+  .. .. .. ..$ downs                  : num 0
+  .. .. .. ..$ brand_safe             : logi FALSE
+  .. .. .. ..$ secure_media_embed     : Named list()
+  .. .. .. ..$ removal_reason         : NULL
+  .. .. .. ..$ post_hint              : chr "link"
+  .. .. .. ..$ author_flair_text      : NULL
+  .. .. .. ..$ stickied               : logi FALSE
+  .. .. .. ..$ can_gild               : logi FALSE
+  .. .. .. ..$ thumbnail_height       : num 140
+  .. .. .. ..$ parent_whitelist_status: NULL
+  .. .. .. ..$ name                   : chr "t3_7s2e3u"
+  .. .. .. ..$ spoiler                : logi FALSE
+  .. .. .. ..$ permalink              : chr "/r/burstcoin/comments/7s2e3u/burstcoin_the_green_cryptocurrency/"
+  .. .. .. ..$ subreddit_type         : chr "public"
+  .. .. .. ..$ locked                 : logi FALSE
+  .. .. .. ..$ hide_score             : logi FALSE
+  .. .. .. ..$ created                : num 1.52e+09
+  .. .. .. ..$ url                    : chr "https://cryptowizard370887289.wordpress.com/2017/12/30/burstcoin-the-green-cryptocurrency/"
+  .. .. .. ..$ whitelist_status       : NULL
+  .. .. .. ..$ quarantine             : logi FALSE
+  .. .. .. ..$ title                  : chr "Burstcoin – the “green” cryptocurrency""| __truncated__
+  .. .. .. ..$ created_utc            : num 1.52e+09
+  .. .. .. ..$ subreddit_name_prefixed: chr "r/burstcoin"
+  .. .. .. ..$ ups                    : num 16
+  .. .. .. ..$ media                  : NULL
+  .. .. .. ..$ num_comments           : num 0
+  .. .. .. ..$ is_self                : logi FALSE
+  .. .. .. ..$ visited                : logi FALSE
+  .. .. .. ..$ mod_note               : NULL
+  .. .. .. ..$ is_video               : logi FALSE
+  .. .. .. ..$ distinguished          : NULL
+  .. ..$ :List of 2
+  .. .. ..$ kind: chr "t3"
+  .. .. ..$ data:List of 73
+  .. .. .. ..$ domain                 : chr "burstcoin.ist"
+  .. .. .. ..$ approved_at_utc        : NULL
+  .. .. .. ..$ mod_reason_by          : NULL
+  .. .. .. ..$ banned_by              : NULL
+  .. .. .. ..$ num_reports            : NULL
+  .. .. .. ..$ subreddit_id           : chr "t5_331i6"
+  .. .. .. ..$ thumbnail_width        : num 140
+  .. .. .. ..$ subreddit              : chr "burstcoin"
+  .. .. .. ..$ selftext_html          : NULL
+  .. .. .. ..$ selftext               : chr ""
+  .. .. .. ..$ likes                  : NULL
+  .. .. .. ..$ suggested_sort         : NULL
+  .. .. .. ..$ user_reports           : list()
+  .. .. .. .. ..- attr(*, "class")= chr "AsIs"
+  .. .. .. ..$ secure_media           : NULL
+  .. .. .. ..$ is_reddit_media_domain : logi FALSE
+  .. .. .. ..$ link_flair_text        : chr "News"
+  .. .. .. ..$ id                     : chr "7s1xue"
+  .. .. .. ..$ banned_at_utc          : NULL
+  .. .. .. ..$ mod_reason_title       : NULL
+  .. .. .. ..$ view_count             : NULL
+  .. .. .. ..$ archived               : logi FALSE
+  .. .. .. ..$ clicked                : logi FALSE
+  .. .. .. ..$ media_embed            : Named list()
+  .. .. .. ..$ report_reasons         : NULL
+  .. .. .. ..$ author                 : chr "Gadrah"
+  .. .. .. ..$ num_crossposts         : num 0
+  .. .. .. ..$ saved                  : logi FALSE
+  .. .. .. ..$ mod_reports            : list()
+  .. .. .. .. ..- attr(*, "class")= chr "AsIs"
+  .. .. .. ..$ can_mod_post           : logi FALSE
+  .. .. .. ..$ is_crosspostable       : logi FALSE
+  .. .. .. ..$ pinned                 : logi FALSE
+  .. .. .. ..$ score                  : num 33
+  .. .. .. ..$ approved_by            : NULL
+  .. .. .. ..$ over_18                : logi FALSE
+  .. .. .. ..$ hidden                 : logi FALSE
+  .. .. .. ..$ preview                :List of 2
+  .. .. .. .. ..$ images :List of 1
+  .. .. .. .. .. ..$ :List of 4
+  .. .. .. .. .. .. ..$ source     :List of 3
+  .. .. .. .. .. .. .. ..$ url   : chr "https://i.redditmedia.com/BG4hZv5jig_EiIwJphDjgVkFAxtqX1aKRs4pJIeayMI.jpg?s=f94c5c49234da57597514f2fd00e2887"
+  .. .. .. .. .. .. .. ..$ width : num 1170
+  .. .. .. .. .. .. .. ..$ height: num 692
+  .. .. .. .. .. .. ..$ resolutions:List of 6
+  .. .. .. .. .. .. .. ..$ :List of 3
+  .. .. .. .. .. .. .. .. ..$ url   : chr "https://i.redditmedia.com/BG4hZv5jig_EiIwJphDjgVkFAxtqX1aKRs4pJIeayMI.jpg?fit=crop&amp;crop=faces%2Centropy&amp;arh=2&amp;w=108"| __truncated__
+  .. .. .. .. .. .. .. .. ..$ width : num 108
+  .. .. .. .. .. .. .. .. ..$ height: num 63
+  .. .. .. .. .. .. .. ..$ :List of 3
+  .. .. .. .. .. .. .. .. ..$ url   : chr "https://i.redditmedia.com/BG4hZv5jig_EiIwJphDjgVkFAxtqX1aKRs4pJIeayMI.jpg?fit=crop&amp;crop=faces%2Centropy&amp;arh=2&amp;w=216"| __truncated__
+  .. .. .. .. .. .. .. .. ..$ width : num 216
+  .. .. .. .. .. .. .. .. ..$ height: num 127
+  .. .. .. .. .. .. .. ..$ :List of 3
+  .. .. .. .. .. .. .. .. ..$ url   : chr "https://i.redditmedia.com/BG4hZv5jig_EiIwJphDjgVkFAxtqX1aKRs4pJIeayMI.jpg?fit=crop&amp;crop=faces%2Centropy&amp;arh=2&amp;w=320"| __truncated__
+  .. .. .. .. .. .. .. .. ..$ width : num 320
+  .. .. .. .. .. .. .. .. ..$ height: num 189
+  .. .. .. .. .. .. .. ..$ :List of 3
+  .. .. .. .. .. .. .. .. ..$ url   : chr "https://i.redditmedia.com/BG4hZv5jig_EiIwJphDjgVkFAxtqX1aKRs4pJIeayMI.jpg?fit=crop&amp;crop=faces%2Centropy&amp;arh=2&amp;w=640"| __truncated__
+  .. .. .. .. .. .. .. .. ..$ width : num 640
+  .. .. .. .. .. .. .. .. ..$ height: num 378
+  .. .. .. .. .. .. .. ..$ :List of 3
+  .. .. .. .. .. .. .. .. ..$ url   : chr "https://i.redditmedia.com/BG4hZv5jig_EiIwJphDjgVkFAxtqX1aKRs4pJIeayMI.jpg?fit=crop&amp;crop=faces%2Centropy&amp;arh=2&amp;w=960"| __truncated__
+  .. .. .. .. .. .. .. .. ..$ width : num 960
+  .. .. .. .. .. .. .. .. ..$ height: num 567
+  .. .. .. .. .. .. .. ..$ :List of 3
+  .. .. .. .. .. .. .. .. ..$ url   : chr "https://i.redditmedia.com/BG4hZv5jig_EiIwJphDjgVkFAxtqX1aKRs4pJIeayMI.jpg?fit=crop&amp;crop=faces%2Centropy&amp;arh=2&amp;w=108"| __truncated__
+  .. .. .. .. .. .. .. .. ..$ width : num 1080
+  .. .. .. .. .. .. .. .. ..$ height: num 638
+  .. .. .. .. .. .. ..$ variants   : Named list()
+  .. .. .. .. .. .. ..$ id         : chr "dBTZRVcRI0wDrgO4xurR-q2y9WRyEgFfcevJ0NEolUI"
+  .. .. .. .. ..$ enabled: logi FALSE
+  .. .. .. ..$ thumbnail              : chr "https://b.thumbs.redditmedia.com/_zaGo9mU4DqMD7tt-UquF0NQaELNgP0NWsE3AbqHHQQ.jpg"
+  .. .. .. ..$ edited                 : logi FALSE
+  .. .. .. ..$ link_flair_css_class   : chr "News"
+  .. .. .. ..$ author_flair_css_class : chr "burstcoinist"
+  .. .. .. ..$ contest_mode           : logi FALSE
+  .. .. .. ..$ gilded                 : num 0
+  .. .. .. ..$ downs                  : num 0
+  .. .. .. ..$ brand_safe             : logi FALSE
+  .. .. .. ..$ secure_media_embed     : Named list()
+  .. .. .. ..$ removal_reason         : NULL
+  .. .. .. ..$ post_hint              : chr "link"
+  .. .. .. ..$ author_flair_text      : NULL
+  .. .. .. ..$ stickied               : logi TRUE
+  .. .. .. ..$ can_gild               : logi FALSE
+  .. .. .. ..$ thumbnail_height       : num 82
+  .. .. .. ..$ parent_whitelist_status: NULL
+  .. .. .. ..$ name                   : chr "t3_7s1xue"
+  .. .. .. ..$ spoiler                : logi FALSE
+  .. .. .. ..$ permalink              : chr "/r/burstcoin/comments/7s1xue/weekly_burst_report_20/"
+  .. .. .. ..$ subreddit_type         : chr "public"
+  .. .. .. ..$ locked                 : logi FALSE
+  .. .. .. ..$ hide_score             : logi FALSE
+  .. .. .. ..$ created                : num 1.52e+09
+  .. .. .. ..$ url                    : chr "https://www.burstcoin.ist/2018/01/22/weekly-burst-report-20/"
+  .. .. .. ..$ whitelist_status       : NULL
+  .. .. .. ..$ quarantine             : logi FALSE
+  .. .. .. ..$ title                  : chr "Weekly Burst Report #20"
+  .. .. .. ..$ created_utc            : num 1.52e+09
+  .. .. .. ..$ subreddit_name_prefixed: chr "r/burstcoin"
+  .. .. .. ..$ ups                    : num 33
+  .. .. .. ..$ media                  : NULL
+  .. .. .. ..$ num_comments           : num 2
+  .. .. .. ..$ is_self                : logi FALSE
+  .. .. .. ..$ visited                : logi FALSE
+  .. .. .. ..$ mod_note               : NULL
+  .. .. .. ..$ is_video               : logi FALSE
+  .. .. .. ..$ distinguished          : NULL
+  .. ..$ :List of 2
+  .. .. ..$ kind: chr "t3"
+  .. .. ..$ data:List of 71
+  .. .. .. ..$ domain                 : chr "self.burstcoin"
+  .. .. .. ..$ approved_at_utc        : NULL
+  .. .. .. ..$ mod_reason_by          : NULL
+  .. .. .. ..$ banned_by              : NULL
+  .. .. .. ..$ num_reports            : NULL
+  .. .. .. ..$ subreddit_id           : chr "t5_331i6"
+  .. .. .. ..$ thumbnail_width        : NULL
+  .. .. .. ..$ subreddit              : chr "burstcoin"
+  .. .. .. ..$ selftext_html          : chr "&lt;!-- SC_OFF --&gt;&lt;div class=\"md\"&gt;&lt;p&gt;Hey everyone! &lt;/p&gt;\n\n&lt;p&gt;I was wondering if it is okay to min"| __truncated__
+  .. .. .. ..$ selftext               : chr "Hey everyone! \n\nI was wondering if it is okay to mine Burstcoin with a mixture of hard drives with various speeds, capacities"| __truncated__
+  .. .. .. ..$ likes                  : NULL
+  .. .. .. ..$ suggested_sort         : NULL
+  .. .. .. ..$ user_reports           : list()
+  .. .. .. .. ..- attr(*, "class")= chr "AsIs"
+  .. .. .. ..$ secure_media           : NULL
+  .. .. .. ..$ is_reddit_media_domain : logi FALSE
+  .. .. .. ..$ link_flair_text        : chr "Mining"
+  .. .. .. ..$ id                     : chr "7s1waw"
+  .. .. .. ..$ banned_at_utc          : NULL
+  .. .. .. ..$ mod_reason_title       : NULL
+  .. .. .. ..$ view_count             : NULL
+  .. .. .. ..$ archived               : logi FALSE
+  .. .. .. ..$ clicked                : logi FALSE
+  .. .. .. ..$ media_embed            : Named list()
+  .. .. .. ..$ report_reasons         : NULL
+  .. .. .. ..$ author                 : chr "PherrykTheFree"
+  .. .. .. ..$ num_crossposts         : num 0
+  .. .. .. ..$ saved                  : logi FALSE
+  .. .. .. ..$ mod_reports            : list()
+  .. .. .. .. ..- attr(*, "class")= chr "AsIs"
+  .. .. .. ..$ can_mod_post           : logi FALSE
+  .. .. .. ..$ is_crosspostable       : logi FALSE
+  .. .. .. ..$ pinned                 : logi FALSE
+  .. .. .. ..$ score                  : num 2
+  .. .. .. ..$ approved_by            : NULL
+  .. .. .. ..$ over_18                : logi FALSE
+  .. .. .. ..$ hidden                 : logi FALSE
+  .. .. .. ..$ thumbnail              : chr "self"
+  .. .. .. ..$ edited                 : logi FALSE
+  .. .. .. ..$ link_flair_css_class   : chr "Mining"
+  .. .. .. ..$ author_flair_css_class : NULL
+  .. .. .. ..$ contest_mode           : logi FALSE
+  .. .. .. ..$ gilded                 : num 0
+  .. .. .. ..$ downs                  : num 0
+  .. .. .. ..$ brand_safe             : logi FALSE
+  .. .. .. ..$ secure_media_embed     : Named list()
+  .. .. .. ..$ removal_reason         : NULL
+  .. .. .. ..$ author_flair_text      : NULL
+  .. .. .. ..$ stickied               : logi FALSE
+  .. .. .. ..$ can_gild               : logi FALSE
+  .. .. .. ..$ thumbnail_height       : NULL
+  .. .. .. ..$ parent_whitelist_status: NULL
+  .. .. .. ..$ name                   : chr "t3_7s1waw"
+  .. .. .. ..$ spoiler                : logi FALSE
+  .. .. .. ..$ permalink              : chr "/r/burstcoin/comments/7s1waw/mixing_and_matching_different_speed_and_capacity/"
+  .. .. .. ..$ subreddit_type         : chr "public"
+  .. .. .. ..$ locked                 : logi FALSE
+  .. .. .. ..$ hide_score             : logi FALSE
+  .. .. .. ..$ created                : num 1.52e+09
+  .. .. .. ..$ url                    : chr "https://www.reddit.com/r/burstcoin/comments/7s1waw/mixing_and_matching_different_speed_and_capacity/"
+  .. .. .. ..$ whitelist_status       : NULL
+  .. .. .. ..$ quarantine             : logi FALSE
+  .. .. .. ..$ title                  : chr "Mixing and matching different speed and capacity hard drive"
+  .. .. .. ..$ created_utc            : num 1.52e+09
+  .. .. .. ..$ subreddit_name_prefixed: chr "r/burstcoin"
+  .. .. .. ..$ ups                    : num 2
+  .. .. .. ..$ media                  : NULL
+  .. .. .. ..$ num_comments           : num 6
+  .. .. .. ..$ is_self                : logi TRUE
+  .. .. .. ..$ visited                : logi FALSE
+  .. .. .. ..$ mod_note               : NULL
+  .. .. .. ..$ is_video               : logi FALSE
+  .. .. .. ..$ distinguished          : NULL
+  .. ..$ :List of 2
+  .. .. ..$ kind: chr "t3"
+  .. .. ..$ data:List of 71
+  .. .. .. ..$ domain                 : chr "self.burstcoin"
+  .. .. .. ..$ approved_at_utc        : NULL
+  .. .. .. ..$ mod_reason_by          : NULL
+  .. .. .. ..$ banned_by              : NULL
+  .. .. .. ..$ num_reports            : NULL
+  .. .. .. ..$ subreddit_id           : chr "t5_331i6"
+  .. .. .. ..$ thumbnail_width        : NULL
+  .. .. .. ..$ subreddit              : chr "burstcoin"
+  .. .. .. ..$ selftext_html          : chr "&lt;!-- SC_OFF --&gt;&lt;div class=\"md\"&gt;&lt;p&gt;Hi all, \nGPU plotting was working well, but now, after a crash and a reb"| __truncated__
+  .. .. .. ..$ selftext               : chr "Hi all, \nGPU plotting was working well, but now, after a crash and a reboot, the nonce writing stops right around the stagger "| __truncated__
+  .. .. .. ..$ likes                  : NULL
+  .. .. .. ..$ suggested_sort         : NULL
+  .. .. .. ..$ user_reports           : list()
+  .. .. .. .. ..- attr(*, "class")= chr "AsIs"
+  .. .. .. ..$ secure_media           : NULL
+  .. .. .. ..$ is_reddit_media_domain : logi FALSE
+  .. .. .. ..$ link_flair_text        : chr "Mining"
+  .. .. .. ..$ id                     : chr "7s1s0i"
+  .. .. .. ..$ banned_at_utc          : NULL
+  .. .. .. ..$ mod_reason_title       : NULL
+  .. .. .. ..$ view_count             : NULL
+  .. .. .. ..$ archived               : logi FALSE
+  .. .. .. ..$ clicked                : logi FALSE
+  .. .. .. ..$ media_embed            : Named list()
+  .. .. .. ..$ report_reasons         : NULL
+  .. .. .. ..$ author                 : chr "dwellercmd"
+  .. .. .. ..$ num_crossposts         : num 0
+  .. .. .. ..$ saved                  : logi FALSE
+  .. .. .. ..$ mod_reports            : list()
+  .. .. .. .. ..- attr(*, "class")= chr "AsIs"
+  .. .. .. ..$ can_mod_post           : logi FALSE
+  .. .. .. ..$ is_crosspostable       : logi FALSE
+  .. .. .. ..$ pinned                 : logi FALSE
+  .. .. .. ..$ score                  : num 2
+  .. .. .. ..$ approved_by            : NULL
+  .. .. .. ..$ over_18                : logi FALSE
+  .. .. .. ..$ hidden                 : logi FALSE
+  .. .. .. ..$ thumbnail              : chr "self"
+  .. .. .. ..$ edited                 : logi FALSE
+  .. .. .. ..$ link_flair_css_class   : chr "Mining"
+  .. .. .. ..$ author_flair_css_class : NULL
+  .. .. .. ..$ contest_mode           : logi FALSE
+  .. .. .. ..$ gilded                 : num 0
+  .. .. .. ..$ downs                  : num 0
+  .. .. .. ..$ brand_safe             : logi FALSE
+  .. .. .. ..$ secure_media_embed     : Named list()
+  .. .. .. ..$ removal_reason         : NULL
+  .. .. .. ..$ author_flair_text      : NULL
+  .. .. .. ..$ stickied               : logi FALSE
+  .. .. .. ..$ can_gild               : logi FALSE
+  .. .. .. ..$ thumbnail_height       : NULL
+  .. .. .. ..$ parent_whitelist_status: NULL
+  .. .. .. ..$ name                   : chr "t3_7s1s0i"
+  .. .. .. ..$ spoiler                : logi FALSE
+  .. .. .. ..$ permalink              : chr "/r/burstcoin/comments/7s1s0i/gpu_plotting_bottle_neck/"
+  .. .. .. ..$ subreddit_type         : chr "public"
+  .. .. .. ..$ locked                 : logi FALSE
+  .. .. .. ..$ hide_score             : logi FALSE
+  .. .. .. ..$ created                : num 1.52e+09
+  .. .. .. ..$ url                    : chr "https://www.reddit.com/r/burstcoin/comments/7s1s0i/gpu_plotting_bottle_neck/"
+  .. .. .. ..$ whitelist_status       : NULL
+  .. .. .. ..$ quarantine             : logi FALSE
+  .. .. .. ..$ title                  : chr "GPU plotting bottle neck?"
+  .. .. .. ..$ created_utc            : num 1.52e+09
+  .. .. .. ..$ subreddit_name_prefixed: chr "r/burstcoin"
+  .. .. .. ..$ ups                    : num 2
+  .. .. .. ..$ media                  : NULL
+  .. .. .. ..$ num_comments           : num 7
+  .. .. .. ..$ is_self                : logi TRUE
+  .. .. .. ..$ visited                : logi FALSE
+  .. .. .. ..$ mod_note               : NULL
+  .. .. .. ..$ is_video               : logi FALSE
+  .. .. .. ..$ distinguished          : NULL
+  .. ..$ :List of 2
+  .. .. ..$ kind: chr "t3"
+  .. .. ..$ data:List of 71
+  .. .. .. ..$ domain                 : chr "self.burstcoin"
+  .. .. .. ..$ approved_at_utc        : NULL
+  .. .. .. ..$ mod_reason_by          : NULL
+  .. .. .. ..$ banned_by              : NULL
+  .. .. .. ..$ num_reports            : NULL
+  .. .. .. ..$ subreddit_id           : chr "t5_331i6"
+  .. .. .. ..$ thumbnail_width        : NULL
+  .. .. .. ..$ subreddit              : chr "burstcoin"
+  .. .. .. ..$ selftext_html          : chr "&lt;!-- SC_OFF --&gt;&lt;div class=\"md\"&gt;&lt;p&gt;I tried GPU plotting a 1.5TB file. It took about 6 hours. And the optimiz"| __truncated__
+  .. .. .. ..$ selftext               : chr "I tried GPU plotting a 1.5TB file. It took about 6 hours. And the optimizing has taken over 1 day.\nI did CPU plotting a few da"| __truncated__
+  .. .. .. ..$ likes                  : NULL
+  .. .. .. ..$ suggested_sort         : NULL
+  .. .. .. ..$ user_reports           : list()
+  .. .. .. .. ..- attr(*, "class")= chr "AsIs"
+  .. .. .. ..$ secure_media           : NULL
+  .. .. .. ..$ is_reddit_media_domain : logi FALSE
+  .. .. .. ..$ link_flair_text        : chr "Mining"
+  .. .. .. ..$ id                     : chr "7s1dm4"
+  .. .. .. ..$ banned_at_utc          : NULL
+  .. .. .. ..$ mod_reason_title       : NULL
+  .. .. .. ..$ view_count             : NULL
+  .. .. .. ..$ archived               : logi FALSE
+  .. .. .. ..$ clicked                : logi FALSE
+  .. .. .. ..$ media_embed            : Named list()
+  .. .. .. ..$ report_reasons         : NULL
+  .. .. .. ..$ author                 : chr "bijansha"
+  .. .. .. ..$ num_crossposts         : num 0
+  .. .. .. ..$ saved                  : logi FALSE
+  .. .. .. ..$ mod_reports            : list()
+  .. .. .. .. ..- attr(*, "class")= chr "AsIs"
+  .. .. .. ..$ can_mod_post           : logi FALSE
+  .. .. .. ..$ is_crosspostable       : logi FALSE
+  .. .. .. ..$ pinned                 : logi FALSE
+  .. .. .. ..$ score                  : num 2
+  .. .. .. ..$ approved_by            : NULL
+  .. .. .. ..$ over_18                : logi FALSE
+  .. .. .. ..$ hidden                 : logi FALSE
+  .. .. .. ..$ thumbnail              : chr "self"
+  .. .. .. ..$ edited                 : logi FALSE
+  .. .. .. ..$ link_flair_css_class   : chr "Mining"
+  .. .. .. ..$ author_flair_css_class : NULL
+  .. .. .. ..$ contest_mode           : logi FALSE
+  .. .. .. ..$ gilded                 : num 0
+  .. .. .. ..$ downs                  : num 0
+  .. .. .. ..$ brand_safe             : logi FALSE
+  .. .. .. ..$ secure_media_embed     : Named list()
+  .. .. .. ..$ removal_reason         : NULL
+  .. .. .. ..$ author_flair_text      : NULL
+  .. .. .. ..$ stickied               : logi FALSE
+  .. .. .. ..$ can_gild               : logi FALSE
+  .. .. .. ..$ thumbnail_height       : NULL
+  .. .. .. ..$ parent_whitelist_status: NULL
+  .. .. .. ..$ name                   : chr "t3_7s1dm4"
+  .. .. .. ..$ spoiler                : logi FALSE
+  .. .. .. ..$ permalink              : chr "/r/burstcoin/comments/7s1dm4/how_long_did_your_gpu_plotting_optimizing_take/"
+  .. .. .. ..$ subreddit_type         : chr "public"
+  .. .. .. ..$ locked                 : logi FALSE
+  .. .. .. ..$ hide_score             : logi FALSE
+  .. .. .. ..$ created                : num 1.52e+09
+  .. .. .. ..$ url                    : chr "https://www.reddit.com/r/burstcoin/comments/7s1dm4/how_long_did_your_gpu_plotting_optimizing_take/"
+  .. .. .. ..$ whitelist_status       : NULL
+  .. .. .. ..$ quarantine             : logi FALSE
+  .. .. .. ..$ title                  : chr "How long did your GPU plotting + optimizing take?"
+  .. .. .. ..$ created_utc            : num 1.52e+09
+  .. .. .. ..$ subreddit_name_prefixed: chr "r/burstcoin"
+  .. .. .. ..$ ups                    : num 2
+  .. .. .. ..$ media                  : NULL
+  .. .. .. ..$ num_comments           : num 17
+  .. .. .. ..$ is_self                : logi TRUE
+  .. .. .. ..$ visited                : logi FALSE
+  .. .. .. ..$ mod_note               : NULL
+  .. .. .. ..$ is_video               : logi FALSE
+  .. .. .. ..$ distinguished          : NULL
+  .. ..$ :List of 2
+  .. .. ..$ kind: chr "t3"
+  .. .. ..$ data:List of 71
+  .. .. .. ..$ domain                 : chr "self.burstcoin"
+  .. .. .. ..$ approved_at_utc        : NULL
+  .. .. .. ..$ mod_reason_by          : NULL
+  .. .. .. ..$ banned_by              : NULL
+  .. .. .. ..$ num_reports            : NULL
+  .. .. .. ..$ subreddit_id           : chr "t5_331i6"
+  .. .. .. ..$ thumbnail_width        : NULL
+  .. .. .. ..$ subreddit              : chr "burstcoin"
+  .. .. .. ..$ selftext_html          : chr "&lt;!-- SC_OFF --&gt;&lt;div class=\"md\"&gt;&lt;p&gt;As I understand it the PoC Consortium plan to release version 2.0.0 of th"| __truncated__
+  .. .. .. ..$ selftext               : chr "As I understand it the PoC Consortium plan to release version 2.0.0 of the wallet fairly soon.\n\nIn anticipation of the Dymaxi"| __truncated__
+  .. .. .. ..$ likes                  : NULL
+  .. .. .. ..$ suggested_sort         : NULL
+  .. .. .. ..$ user_reports           : list()
+  .. .. .. .. ..- attr(*, "class")= chr "AsIs"
+  .. .. .. ..$ secure_media           : NULL
+  .. .. .. ..$ is_reddit_media_domain : logi FALSE
+  .. .. .. ..$ link_flair_text        : chr "Discussion"
+  .. .. .. ..$ id                     : chr "7s0o78"
+  .. .. .. ..$ banned_at_utc          : NULL
+  .. .. .. ..$ mod_reason_title       : NULL
+  .. .. .. ..$ view_count             : NULL
+  .. .. .. ..$ archived               : logi FALSE
+  .. .. .. ..$ clicked                : logi FALSE
+  .. .. .. ..$ media_embed            : Named list()
+  .. .. .. ..$ report_reasons         : NULL
+  .. .. .. ..$ author                 : chr "rk113"
+  .. .. .. ..$ num_crossposts         : num 0
+  .. .. .. ..$ saved                  : logi FALSE
+  .. .. .. ..$ mod_reports            : list()
+  .. .. .. .. ..- attr(*, "class")= chr "AsIs"
+  .. .. .. ..$ can_mod_post           : logi FALSE
+  .. .. .. ..$ is_crosspostable       : logi FALSE
+  .. .. .. ..$ pinned                 : logi FALSE
+  .. .. .. ..$ score                  : num 7
+  .. .. .. ..$ approved_by            : NULL
+  .. .. .. ..$ over_18                : logi FALSE
+  .. .. .. ..$ hidden                 : logi FALSE
+  .. .. .. ..$ thumbnail              : chr "self"
+  .. .. .. ..$ edited                 : num 1.52e+09
+  .. .. .. ..$ link_flair_css_class   : chr "Discussion"
+  .. .. .. ..$ author_flair_css_class : NULL
+  .. .. .. ..$ contest_mode           : logi FALSE
+  .. .. .. ..$ gilded                 : num 0
+  .. .. .. ..$ downs                  : num 0
+  .. .. .. ..$ brand_safe             : logi FALSE
+  .. .. .. ..$ secure_media_embed     : Named list()
+  .. .. .. ..$ removal_reason         : NULL
+  .. .. .. ..$ author_flair_text      : NULL
+  .. .. .. ..$ stickied               : logi FALSE
+  .. .. .. ..$ can_gild               : logi FALSE
+  .. .. .. ..$ thumbnail_height       : NULL
+  .. .. .. ..$ parent_whitelist_status: NULL
+  .. .. .. ..$ name                   : chr "t3_7s0o78"
+  .. .. .. ..$ spoiler                : logi FALSE
+  .. .. .. ..$ permalink              : chr "/r/burstcoin/comments/7s0o78/a_question_about_the_upcoming_burstcoin_200_wallet/"
+  .. .. .. ..$ subreddit_type         : chr "public"
+  .. .. .. ..$ locked                 : logi FALSE
+  .. .. .. ..$ hide_score             : logi FALSE
+  .. .. .. ..$ created                : num 1.52e+09
+  .. .. .. ..$ url                    : chr "https://www.reddit.com/r/burstcoin/comments/7s0o78/a_question_about_the_upcoming_burstcoin_200_wallet/"
+  .. .. .. ..$ whitelist_status       : NULL
+  .. .. .. ..$ quarantine             : logi FALSE
+  .. .. .. ..$ title                  : chr "A question about the upcoming Burstcoin 2.0.0 wallet"
+  .. .. .. ..$ created_utc            : num 1.52e+09
+  .. .. .. ..$ subreddit_name_prefixed: chr "r/burstcoin"
+  .. .. .. ..$ ups                    : num 7
+  .. .. .. ..$ media                  : NULL
+  .. .. .. ..$ num_comments           : num 9
+  .. .. .. ..$ is_self                : logi TRUE
+  .. .. .. ..$ visited                : logi FALSE
+  .. .. .. ..$ mod_note               : NULL
+  .. .. .. ..$ is_video               : logi FALSE
+  .. .. .. ..$ distinguished          : NULL
+  .. ..$ :List of 2
+  .. .. ..$ kind: chr "t3"
+  .. .. ..$ data:List of 71
+  .. .. .. ..$ domain                 : chr "self.burstcoin"
+  .. .. .. ..$ approved_at_utc        : NULL
+  .. .. .. ..$ mod_reason_by          : NULL
+  .. .. .. ..$ banned_by              : NULL
+  .. .. .. ..$ num_reports            : NULL
+  .. .. .. ..$ subreddit_id           : chr "t5_331i6"
+  .. .. .. ..$ thumbnail_width        : NULL
+  .. .. .. ..$ subreddit              : chr "burstcoin"
+  .. .. .. ..$ selftext_html          : chr "&lt;!-- SC_OFF --&gt;&lt;div class=\"md\"&gt;&lt;p&gt;so I&amp;#39;ve been wondering what type of pool would be better for some"| __truncated__
+  .. .. .. ..$ selftext               : chr "so I've been wondering what type of pool would be better for someone running ~2.5TB of storage, a 50-50 or 0-100. Sofar, from m"| __truncated__
+  .. .. .. ..$ likes                  : NULL
+  .. .. .. ..$ suggested_sort         : NULL
+  .. .. .. ..$ user_reports           : list()
+  .. .. .. .. ..- attr(*, "class")= chr "AsIs"
+  .. .. .. ..$ secure_media           : NULL
+  .. .. .. ..$ is_reddit_media_domain : logi FALSE
+  .. .. .. ..$ link_flair_text        : chr "Mining"
+  .. .. .. ..$ id                     : chr "7rzstq"
+  .. .. .. ..$ banned_at_utc          : NULL
+  .. .. .. ..$ mod_reason_title       : NULL
+  .. .. .. ..$ view_count             : NULL
+  .. .. .. ..$ archived               : logi FALSE
+  .. .. .. ..$ clicked                : logi FALSE
+  .. .. .. ..$ media_embed            : Named list()
+  .. .. .. ..$ report_reasons         : NULL
+  .. .. .. ..$ author                 : chr "nayrboh"
+  .. .. .. ..$ num_crossposts         : num 0
+  .. .. .. ..$ saved                  : logi FALSE
+  .. .. .. ..$ mod_reports            : list()
+  .. .. .. .. ..- attr(*, "class")= chr "AsIs"
+  .. .. .. ..$ can_mod_post           : logi FALSE
+  .. .. .. ..$ is_crosspostable       : logi FALSE
+  .. .. .. ..$ pinned                 : logi FALSE
+  .. .. .. ..$ score                  : num 1
+  .. .. .. ..$ approved_by            : NULL
+  .. .. .. ..$ over_18                : logi FALSE
+  .. .. .. ..$ hidden                 : logi FALSE
+  .. .. .. ..$ thumbnail              : chr "self"
+  .. .. .. ..$ edited                 : logi FALSE
+  .. .. .. ..$ link_flair_css_class   : chr "Mining"
+  .. .. .. ..$ author_flair_css_class : NULL
+  .. .. .. ..$ contest_mode           : logi FALSE
+  .. .. .. ..$ gilded                 : num 0
+  .. .. .. ..$ downs                  : num 0
+  .. .. .. ..$ brand_safe             : logi FALSE
+  .. .. .. ..$ secure_media_embed     : Named list()
+  .. .. .. ..$ removal_reason         : NULL
+  .. .. .. ..$ author_flair_text      : NULL
+  .. .. .. ..$ stickied               : logi FALSE
+  .. .. .. ..$ can_gild               : logi FALSE
+  .. .. .. ..$ thumbnail_height       : NULL
+  .. .. .. ..$ parent_whitelist_status: NULL
+  .. .. .. ..$ name                   : chr "t3_7rzstq"
+  .. .. .. ..$ spoiler                : logi FALSE
+  .. .. .. ..$ permalink              : chr "/r/burstcoin/comments/7rzstq/yet_another_pool_question/"
+  .. .. .. ..$ subreddit_type         : chr "public"
+  .. .. .. ..$ locked                 : logi FALSE
+  .. .. .. ..$ hide_score             : logi FALSE
+  .. .. .. ..$ created                : num 1.52e+09
+  .. .. .. ..$ url                    : chr "https://www.reddit.com/r/burstcoin/comments/7rzstq/yet_another_pool_question/"
+  .. .. .. ..$ whitelist_status       : NULL
+  .. .. .. ..$ quarantine             : logi FALSE
+  .. .. .. ..$ title                  : chr "yet another pool question..."
+  .. .. .. ..$ created_utc            : num 1.52e+09
+  .. .. .. ..$ subreddit_name_prefixed: chr "r/burstcoin"
+  .. .. .. ..$ ups                    : num 1
+  .. .. .. ..$ media                  : NULL
+  .. .. .. ..$ num_comments           : num 3
+  .. .. .. ..$ is_self                : logi TRUE
+  .. .. .. ..$ visited                : logi FALSE
+  .. .. .. ..$ mod_note               : NULL
+  .. .. .. ..$ is_video               : logi FALSE
+  .. .. .. ..$ distinguished          : NULL
+  .. ..$ :List of 2
+  .. .. ..$ kind: chr "t3"
+  .. .. ..$ data:List of 73
+  .. .. .. ..$ domain                 : chr "self.burstcoin"
+  .. .. .. ..$ approved_at_utc        : NULL
+  .. .. .. ..$ mod_reason_by          : NULL
+  .. .. .. ..$ banned_by              : NULL
+  .. .. .. ..$ num_reports            : NULL
+  .. .. .. ..$ subreddit_id           : chr "t5_331i6"
+  .. .. .. ..$ thumbnail_width        : NULL
+  .. .. .. ..$ subreddit              : chr "burstcoin"
+  .. .. .. ..$ selftext_html          : chr "&lt;!-- SC_OFF --&gt;&lt;div class=\"md\"&gt;&lt;p&gt;Because there was still some confusion on needing one or two bursts to st"| __truncated__
+  .. .. .. ..$ selftext               : chr "Because there was still some confusion on needing one or two bursts to start mining, i updated my getting started video guide. "| __truncated__
+  .. .. .. ..$ likes                  : NULL
+  .. .. .. ..$ suggested_sort         : NULL
+  .. .. .. ..$ user_reports           : list()
+  .. .. .. .. ..- attr(*, "class")= chr "AsIs"
+  .. .. .. ..$ secure_media           : NULL
+  .. .. .. ..$ is_reddit_media_domain : logi FALSE
+  .. .. .. ..$ link_flair_text        : chr "Tutorial"
+  .. .. .. ..$ id                     : chr "7rzggl"
+  .. .. .. ..$ banned_at_utc          : NULL
+  .. .. .. ..$ mod_reason_title       : NULL
+  .. .. .. ..$ view_count             : NULL
+  .. .. .. ..$ archived               : logi FALSE
+  .. .. .. ..$ clicked                : logi FALSE
+  .. .. .. ..$ media_embed            : Named list()
+  .. .. .. ..$ report_reasons         : NULL
+  .. .. .. ..$ author                 : chr "Bombtrackx"
+  .. .. .. ..$ num_crossposts         : num 0
+  .. .. .. ..$ saved                  : logi FALSE
+  .. .. .. ..$ mod_reports            : list()
+  .. .. .. .. ..- attr(*, "class")= chr "AsIs"
+  .. .. .. ..$ can_mod_post           : logi FALSE
+  .. .. .. ..$ is_crosspostable       : logi FALSE
+  .. .. .. ..$ pinned                 : logi FALSE
+  .. .. .. ..$ score                  : num 20
+  .. .. .. ..$ approved_by            : NULL
+  .. .. .. ..$ over_18                : logi FALSE
+  .. .. .. ..$ hidden                 : logi FALSE
+  .. .. .. ..$ preview                :List of 2
+  .. .. .. .. ..$ images :List of 1
+  .. .. .. .. .. ..$ :List of 4
+  .. .. .. .. .. .. ..$ source     :List of 3
+  .. .. .. .. .. .. .. ..$ url   : chr "https://i.redditmedia.com/ocVs0Vk3eaOMAQg-ODDlHdqYEezo9riZOzQjWoJ6JNM.jpg?s=d8321d92b88ad8c95cffb97b26c3667a"
+  .. .. .. .. .. .. .. ..$ width : num 480
+  .. .. .. .. .. .. .. ..$ height: num 360
+  .. .. .. .. .. .. ..$ resolutions:List of 3
+  .. .. .. .. .. .. .. ..$ :List of 3
+  .. .. .. .. .. .. .. .. ..$ url   : chr "https://i.redditmedia.com/ocVs0Vk3eaOMAQg-ODDlHdqYEezo9riZOzQjWoJ6JNM.jpg?fit=crop&amp;crop=faces%2Centropy&amp;arh=2&amp;w=108"| __truncated__
+  .. .. .. .. .. .. .. .. ..$ width : num 108
+  .. .. .. .. .. .. .. .. ..$ height: num 81
+  .. .. .. .. .. .. .. ..$ :List of 3
+  .. .. .. .. .. .. .. .. ..$ url   : chr "https://i.redditmedia.com/ocVs0Vk3eaOMAQg-ODDlHdqYEezo9riZOzQjWoJ6JNM.jpg?fit=crop&amp;crop=faces%2Centropy&amp;arh=2&amp;w=216"| __truncated__
+  .. .. .. .. .. .. .. .. ..$ width : num 216
+  .. .. .. .. .. .. .. .. ..$ height: num 162
+  .. .. .. .. .. .. .. ..$ :List of 3
+  .. .. .. .. .. .. .. .. ..$ url   : chr "https://i.redditmedia.com/ocVs0Vk3eaOMAQg-ODDlHdqYEezo9riZOzQjWoJ6JNM.jpg?fit=crop&amp;crop=faces%2Centropy&amp;arh=2&amp;w=320"| __truncated__
+  .. .. .. .. .. .. .. .. ..$ width : num 320
+  .. .. .. .. .. .. .. .. ..$ height: num 240
+  .. .. .. .. .. .. ..$ variants   : Named list()
+  .. .. .. .. .. .. ..$ id         : chr "aDbgQq-z_0gxluvPgvRP30SoH9YhQcOUL5Nj8DkQrPE"
+  .. .. .. .. ..$ enabled: logi FALSE
+  .. .. .. ..$ thumbnail              : chr "self"
+  .. .. .. ..$ edited                 : logi FALSE
+  .. .. .. ..$ link_flair_css_class   : chr "Tutorial"
+  .. .. .. ..$ author_flair_css_class : chr "dymaxion"
+  .. .. .. ..$ contest_mode           : logi FALSE
+  .. .. .. ..$ gilded                 : num 0
+  .. .. .. ..$ downs                  : num 0
+  .. .. .. ..$ brand_safe             : logi FALSE
+  .. .. .. ..$ secure_media_embed     : Named list()
+  .. .. .. ..$ removal_reason         : NULL
+  .. .. .. ..$ post_hint              : chr "self"
+  .. .. .. ..$ author_flair_text      : chr ""
+  .. .. .. ..$ stickied               : logi FALSE
+  .. .. .. ..$ can_gild               : logi FALSE
+  .. .. .. ..$ thumbnail_height       : NULL
+  .. .. .. ..$ parent_whitelist_status: NULL
+  .. .. .. ..$ name                   : chr "t3_7rzggl"
+  .. .. .. ..$ spoiler                : logi FALSE
+  .. .. .. ..$ permalink              : chr "/r/burstcoin/comments/7rzggl/updated_video_quickstart_guide_need_help/"
+  .. .. .. ..$ subreddit_type         : chr "public"
+  .. .. .. ..$ locked                 : logi FALSE
+  .. .. .. ..$ hide_score             : logi FALSE
+  .. .. .. ..$ created                : num 1.52e+09
+  .. .. .. ..$ url                    : chr "https://www.reddit.com/r/burstcoin/comments/7rzggl/updated_video_quickstart_guide_need_help/"
+  .. .. .. ..$ whitelist_status       : NULL
+  .. .. .. ..$ quarantine             : logi FALSE
+  .. .. .. ..$ title                  : chr "-UPDATED- video quickstart guide - need help replacing in search results!"
+  .. .. .. ..$ created_utc            : num 1.52e+09
+  .. .. .. ..$ subreddit_name_prefixed: chr "r/burstcoin"
+  .. .. .. ..$ ups                    : num 20
+  .. .. .. ..$ media                  : NULL
+  .. .. .. ..$ num_comments           : num 0
+  .. .. .. ..$ is_self                : logi TRUE
+  .. .. .. ..$ visited                : logi FALSE
+  .. .. .. ..$ mod_note               : NULL
+  .. .. .. ..$ is_video               : logi FALSE
+  .. .. .. ..$ distinguished          : NULL
+  ..$ before          : NULL
